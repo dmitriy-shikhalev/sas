@@ -1,0 +1,98 @@
+[tool.poetry]
+name = "sas"
+version = "0.1.0"
+description = ""
+authors = ["Dmitriy Shikhalev <dmitriy.shikhalev@xmail.ru>"]
+license = "BSD-3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+pytest-isort = "^4.0.0"
+pytest-ruff = "^0.4.1"
+pytest-black = "^0.6.0"
+pytest-mypy = "^0.10.3"
+pytest-coverage = "^0.0"
+
+[tool.isort]
+profile = "black"
+src_paths = ["sas", "tests"]
+skip = [
+    "blank_project/xxx.py",
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.1"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+sas = "sas.main:main"
+
+
+[tool.black]
+line-length = 120
+target-version = ['py313']
+include = '\.pyi?$'
+exclude = 'xxx'
+
+[tool.ruff]
+# Same as Black.
+line-length = 120
+cache-dir = "~/.cache/ruff"
+include = ["sas/*", "tests/*"]
+exclude = [".venv"]
+# Assume Python 3.13
+target-version = "py313"
+
+# Allow autofix for all enabled rules (when `--fix`) is provided.
+lint.fixable = ["ALL"]
+lint.unfixable = []
+
+lint.select = [
+    "D",  # docstrings
+    "E",  # pycodestyle errors (settings from FastAPI, thanks, @tiangolo!)
+    "W",  # pycodestyle warnings
+    "F",  # pyflakes
+#    "I",  # isort
+    "C",  # flake8-comprehensions
+    "B",  # flake8-bugbear
+]
+lint.ignore = [
+    "E501",  # line too long, handled by black
+    "W292",  # no new line at end of file, handled by black
+    "C901",  # too complex
+    "D100",  # Missing docstring in public module
+    "D104",  # Missing docstring in public package
+]
+
+[tool.ruff.lint.flake8-quotes]
+docstring-quotes = "double"
+
+[tool.ruff.format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+
+
+#[[tool.mypy.overrides]]
+#module = "xxx.*"
+#ignore_missing_imports = true
+
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "error",
+    "ignore::UserWarning",
+    # note the use of single quote below to denote "raw" strings in TOML
+    'ignore:function ham\(\) is deprecated:DeprecationWarning',
+]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "session"
+addopts = "-vvv --mypy --ruff --black --isort --cov=sas --no-cov-on-fail  --cov-fail-under=100 --cov-report term-missing --color=yes"
+testpaths = [
+    "sas", "tests",
+]
+
