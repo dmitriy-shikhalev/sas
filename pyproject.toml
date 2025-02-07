@@ -8,6 +8,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
+sqlalchemy = "^2.0.38"
+alembic = "^1.14.1"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -21,9 +23,7 @@ pytest-coverage = "^0.0"
 [tool.isort]
 profile = "black"
 src_paths = ["sas", "tests"]
-skip = [
-    "blank_project/xxx.py",
-]
+skip = []
 
 [build-system]
 requires = ["poetry-core>=2.0.1"]
