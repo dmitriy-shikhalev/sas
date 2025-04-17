@@ -8,8 +8,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
-sqlalchemy = "^2.0.38"
-alembic = "^1.14.1"
+peewee = "^3.17.9"
+pydantic = "^2.11.3"
+pydantic-settings = "^2.8.1"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -37,7 +38,7 @@ sas = "sas.main:main"
 line-length = 120
 target-version = ['py313']
 include = '\.pyi?$'
-exclude = 'xxx'
+exclude = '???'  # todo: remove
 
 [tool.ruff]
 # Same as Black.
@@ -89,8 +90,6 @@ filterwarnings = [
     # note the use of single quote below to denote "raw" strings in TOML
     'ignore:function ham\(\) is deprecated:DeprecationWarning',
 ]
-asyncio_mode = "auto"
-asyncio_default_fixture_loop_scope = "session"
 addopts = "-vvv --mypy --ruff --black --isort --cov=sas --no-cov-on-fail  --cov-fail-under=100 --cov-report term-missing --color=yes"
 testpaths = [
     "sas", "tests",

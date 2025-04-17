@@ -1,6 +1,6 @@
 import pytest
 
-from sas.main import function
+# from sas.main import function
 
 
 def test_blank_function():
