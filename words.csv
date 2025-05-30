@@ -1,1990 +1,1857 @@
-word;translate
-a;неопределенный артикль
-to abandon;отказаться от
-ability;способность
-able;способный
-about;о
-above;выше
-abroad;за границу
-absolute;абсолютный
-absolutely;абсолютно
-academic;академический
-to accept;принять
-acceptable;приемлемый
-access;доступ
-to access;получить доступ
-accident;авария
-accommodation;размещение
-accompany;сопровождать
-according to;согласно
-account;счет,версия
-to account;счет,версия
-accurate;точный
-to accuse;обвинять против
-to achieve;достичь
-achievement;достижение
-to acknowledge;признать
-to acquire;приобрести
-across;поперек
-to act;закон
-act;закон
-action;действие
-active;активный
-activity;деятельность
-actor;актер
-actress;актриса
-actual;фактический
-actually;на самом деле
-to adapt;адаптировать
-to add;добавить
-addition;дополнение
-additional;дополнительный
-address;адрес
-to address
-administration;администрация
-admire;восхищаться
-admit;признать
-adopt;принять
-adult;взрослый
-advance;аванс
-advanced;расширенный
-advantage;преимущество
-adventure;приключение
-advertise;рекламировать
-advertisement;реклама
-advertising;реклама
-advice;совет
-advise;советовать
-affair;дело
-affect;влияет на
-afford;позволить
-afraid;испуганный
-after;после
-afternoon;полдень
-afterwards;потом
-again;снова
-against;против
-age;возраст
+word,translate
+a,неопределенный артикль
+to abandon,отказаться от
+ability,способность
+able,способный
+about,о
+above,выше
+abroad,за границу
+absolute,абсолютный
+absolutely,абсолютно
+academic,академический
+to accept,принять
+acceptable,приемлемый
+access,доступ
+to access,получить доступ
+accident,авария
+accommodation,размещение
+accompany,сопровождать
+according to,согласно(чему-то)
+account,счет
+to account,подсчитать
+accurate,точный
+to accuse,обвинять против
+to achieve,достичь
+achievement,достижение
+to acknowledge,признать
+to acquire,приобрести
+across,поперек
+to act,закон
+act,закон
+action,действие
+active,активный
+activity,деятельность
+actor,актер
+actress,актриса
+actual,фактический
+actually,на самом деле
+to adapt,адаптировать
+to add,добавить
+addition,дополнение
+additional,дополнительный
+address,адрес
+to address,адресовать
+administration,администрация
+admire,восхищаться
+admit,признать
+adopt,принять
+adult,взрослый
+advance,аванс
+advanced,расширенный
+advantage,преимущество
+adventure,приключение
+advertise,рекламировать
+advertisement,реклама
+advertising,реклама
+advice,совет
+advise,советовать
+affair,дело
+affect,влияет на
+afford,позволить
+afraid,испуганный
+after,после
+afternoon,полдень
+afterwards,потом
+again,снова
+against,против
+age,возраст
+aged,в возрасте
+agency,агентство
+agenda,повестка дня
+agent,агент
+aggressive,агрессивный
+ago,назад
+agree,согласен с
+agreement,договор
+ah,ах
+ahead,впереди
+aid,помощь
+aim,цель
+air,воздух
+aircraft,самолет
+airline,авиакомпания
+airport,аэропорт
+alarm,сигнализация
+album,альбом
+alcohol,спирт
+alcoholic,алкогольный
+alive,живой
+all,все
+all right,ладно
+allow,разрешить
+almost,почти
+alone,только
+along,по
+already,уже
+also,также
+alter,изменить
+alternative,альтернатива
+although,хотя
+always,всегда
+amazed,удивленный
+amazing,удивительный
+ambition,амбиции
+ambitious,амбициозный
+among,среди
+amount,сумма
+analyse,анализировать
+analysis,анализ
+ancient,древний
+and,и
+anger,гнев
+angle,угол
+angry,злой
+animal,животное
+ankle,лодыжка
+anniversary,юбилей
+announce,объявить
+announcement,объявление
+annoy,раздражать
+annoyed,раздраженный
+annoying,раздражающий
+annual,ежегодный
+another,другой
+answer,ответ
+anxious,тревожный
+any,любой
+anybody,кто-нибудь
+any more,больше
+anyone,любой
+anything,что-нибудь
+anywhere,везде
+apart,кроме
+apartment,квартира
+apologize,извиниться
+app,приложение
+apparent,кажущийся
+apparently,видимо
+appeal,апелляция
+appear,появляются
+appearance,внешний вид
+apple,яблоко
+application,приложение
+apply,применить
+appointment,назначение
+appreciate,ценю
+approach,подход
+appropriate,соответствующий
+approval,утверждение
+approve,одобрить
+approximately,примерно
+April,aпрель
+architect,архитектор
+architecture,архитектура
+area,площадь
+argue,аргументировать
+argument,аргумент
+arise,возникновение
+arm,рука
+armed,вооруженный
+arms,оружие
+army,армия
+around,вокруг
+arrange,организовать
+arrangement,расположение
+arrest,арестовать
+arrival,прибытие
+arrive,прибыть
+art,искусство
+article,статья
+artificial,искусственный
+artist,художник
+artistic,художественный
+as,как
+ashamed,стыдливый
+ask,спросить
+asleep,спящий
+aspect,аспект
+assess,оценить
+assessment,оценка
+assignment,присвоение
+assist,помощь
+assistant,помощник
+associate,партнер
+associated,связанный
+association,ассоциация
+assume,предположим
+at,при
+athlete,спортсмен
+atmosphere,атмосфера
+attach,прикрепить
+attack,атака
+attempt,покушение
 
-версия
+attend,
+attention,
+attitude,
+attract,
+attraction,
+attractive,
+audience,
+August,
+aunt,
+author,
+authority,
+autumn,
+available,
+average,
+avoid,
+award,
+aware,
+away,
+awful,
+baby,
+back,
+background,
+backwards,
+bacteria,
+bad,
+badly,
+bag,
+bake,
+balance,
+ball,
+ban,
+banana,
+band,
+bank (money),
+bank (river),
+bar,
+barrier,
+base,
+baseball,
+based,
+basic,
+basically,
+basis,
+basketball,
+bath,
+bathroom,
+battery,
+battle,
+be auxiliary,
+beach,
+bean,
+bear (deal with),
+bear (animal),
+beat,
+beautiful,
+beauty,
+because,
+become,
+bed,
+bedroom,
+bee,
+beef,говядина
+beer,пиво
 
-aged;в возрасте;B1
-agency;
-agenda;
-agent;
-aggressive;
-ago;
-agree;
-agreement;
-ah;
-ahead;
-aid;
-aim;
-air;
-aircraft;
-airline;
-airport;
-alarm;
-album;
-alcohol;
-alcoholic;
-alive;
-all;
-all right;
-allow;
-almost;
-alone;
-along;
-already;
-also;
-alter;
-alternative;
-although;
-always;
-amazed;
-amazing;
-ambition;
-ambitious;
-among;
-amount;
-analyse;
-analysis;
-ancient;
-and;
-anger;
-angle;
-angry;
-animal;
-ankle;
-anniversary;
-announce;
-announcement;
-annoy;
-annoyed;
-annoying;
-annual;
-another;
-answer;
-anxious;
-any;
-anybody;
-any more;
-anyone;
-anything;
-
-агентство;B2
-повестка дня;B2
-агент;B1
-агрессивный;B2
-назад;A1
-согласен с;A1
-договор;B1
-ах восклицать. A2
-впереди;B1
-помощь;B2
-цель;B1
-воздух;A1
-самолет;B2
-авиакомпания;A2
-аэропорт;A1
-сигнализация;B1, версия B2
-альбом;B1
-спирт н. B1
-алкогольный;B1
-живой;A2
-все дет., пр. A1,A2
-ладно
-разрешить;A2
-почти;A2
-только;/ адв. A2
-по преп.,A2
-уже;A2
-также;A1
-изменить;B2
-альтернатива;A2,B1
-хотя конъюнктура. A2
-всегда;A1
-удивленный;B1
-удивительный;A1
-амбиции;B1
-амбициозный;B1
-среди преп. A2
-сумма;A2,B2
-анализировать;B1
-анализ;B1
-древний;A2
-и соедин. A1
-гнев;B2
-угол;B2
-злой;A1
-животное;A1
-лодыжка;A2
-юбилей;B2
-объявить;B1
-объявление;B1
-раздражать против B1
-раздраженный;B1
-раздражающий;B1
-ежегодный;B2
-другой дет./прон. A1
-ответ;А1
-тревожный;B2
-любой дет., пр. A1,A2
-кто-нибудь прон. A2
-больше нарекать. A2
-любой прон. A1
-что-нибудь прон. A1anyway;A2
-
-anywhere;, pron. A2
-apart;B1
-apartment;A1
-apologize;B1
-app;A2
-apparent;B2
-apparently;B2
-appeal;B2
-appear;A2
-appearance;A2
-apple;A1
-application;B1
-apply;A2
-appointment;B1
-appreciate;B1
-approach;B2
-appropriate;B2
-approval;B2
-approve;B2
-approximately;B1
-April;A1
-architect;A2
-architecture;A2
-area;A1
-argue;A2
-argument;A2
-arise;B2
-arm;A1
-armed;B2
-arms;B2
-army;A2
-around;A1
-arrange;A2
-arrangement;A2
-arrest;B1
-arrival;B1
-arrive;A1
-art;A1
-article;A1
-artificial;B2
-artist;A1
-artistic;B2
-as;A1,;, conj. A2
-ashamed;B2
-ask;A1
-asleep;A2
-aspect;B2
-assess;B2
-assessment;B2
-assignment;B1
-assist;B1
-assistant;A2
-associate;B2
-associated;B2
-association;B2
-assume;B2
-at;A1
-athlete;A2
-atmosphere;B1
-attach;B1
-attack;A2
-attempt;B2
-
-в любом случае;A2
-везде;A2
-кроме;B1
-квартира;A1
-извиниться против B1
-приложение № A2
-кажущийся;B2
-видимо;B2
-апелляция;B2
-появляются;A2
-внешний вид;A2
-яблоко;A1
-приложение № B1
-применить;A2
-назначение;B1
-ценю;B1
-подход;B2
-соответствующий;B2
-утверждение;B2
-одобрить;B2
-примерно;B1
-Апрель н. A1
-архитектор н. A2
-архитектура;A2
-площадь;A1
-аргументировать против A2
-аргумент;A2
-Возникновение;B2
-рука;A1
-вооруженный;B2
-оружие;B2
-армия;A2
-вокруг преп.,A1
-организовать;A2
-расположение;A2
-арестовать;B1
-прибытие;B1
-прибыть;A1
-искусство;A1
-статья № A1
-искусственный;B2
-художник н. A1
-художественный;B2
-как преп. A1, нареч., Конн. A2
-стыдливый;B2
-спросить;A1
-спящий;A2
-аспект;B2
-оценить;B2
-оценка;B2
-присвоение;B1
-помощь;B1
-помощник;A2
-партнер против B2
-связанный;B2
-ассоциация;B2
-предположим;B2
-при преп. A1
-спортсмен н. A2
-Атмосфера;B1
-прикрепить;B1
-Атака;A2
-покушение;B2
-
-attend;A2
-attention exclam. A2
-attitude;B1
-attract;B1
-attraction;B1
-attractive;A2
-audience;A2
-August;A1
-aunt;A1
-author;A2
-authority;B1
-autumn;A1
-available;A2
-average;A2,B1
-avoid;A2
-award;A2,B1
-aware;B1
-away;A1
-awful;A2
-baby;A1
-back;A1,A2,B2
-background;A2
-backwards;B1
-bacteria;B2
-bad;A1
-badly;A2
-bag;A1
-bake;B1
-balance;B1
-ball;A1
-ban;B1
-banana;A1
-band;A1
-bank (money);A1
-bank (river);B1
-bar;A2,B2
-barrier;B2
-base;B1
-baseball;A2
-based;A2
-basic;B1
-basically;B2
-basis;B1
-basketball;A2
-bath;A1
-bathroom;A1
-battery;B1
-battle;B1,B2
-be auxiliary;A1
-beach;A1
-bean;A2
-bear (deal with);B2
-bear (animal);A2
-beat;A2,B2
-beautiful;A1
-beauty;B1
-because conj. A1
-become;A1
-bed;A1
-bedroom;A1
-bee;B1
-beef;A2
-beer;A
-
-присутствовать на;A2
+присутствовать на,
 внимание
-отношение;B1
-привлечь;B1
-аттракцион;B1
-привлекательный;A2
-аудитория;A2
+отношение,
+привлечь,
+аттракцион,
+привлекательный,
+аудитория,
 Август н. A1
 тетя н. A1
-автор;A2
-власть;B1
-осень;A1
-доступно;A2
+автор,
+власть,
+осень,
+доступно,
 средний прил.
-Избегайте;A2
-награда;A2, версия B1
-осведомленный;B1
-прочь;A1
-ужасный;A2
-ребенок;A1
-назад;A1,
-фон;A2
-назад;B1
-бактерии;B2
-плохой;A1
-плохо;A2
-сумка;A1
-испечь;B1
-Остаток;B1
-мяч;A1
-запретить;B1
+Избегайте,
+награда,, версия B1
+осведомленный,
+прочь,
+ужасный,
+ребенок,
+назад,,
+фон,
+назад,
+бактерии,
+плохой,
+плохо,
+сумка,
+испечь,
+Остаток,
+мяч,
+запретить,
 банан н. A1
-группа;A1
+группа,
 банк (деньги) сущ. A1
-берег (река);B1
-бар;A2,B2
-барьер;B2
-база;B1
-бейсбол;A2
-на основе;A2
-базовый;B1
-в основном;B2
-база;B1
-баскетбол;A2
-ванна;A1
-санузел;A1
-аккумулятор;B1
-битва;B1, версия B2
-be вспомогательная;A1
-пляж;A1
+берег (река),
+бар,,B2
+барьер,
+база,
+бейсбол,
+на основе,
+базовый,
+в основном,
+база,
+баскетбол,
+ванна,
+санузел,
+аккумулятор,
+битва,, версия B2
+be вспомогательная,
+пляж,
 фасоль н. A2
-иметь дело с;B2
+иметь дело с,
 медведь (животное) сущ. A2
-избили;A2,B2
-красивый;A1
-красота;B1
+избили,,B2
+красивый,
+красота,
 потому что конъюнктура. A1
-стать;A1
-кровать;A1
-спальня;A1
+стать,
+кровать,
+спальня,
 был. B1
-говядина н. A2
-пиво н. А
 
 before
-beg;B2
-begin;A1
-beginning;A1
-behave;A2
-behaviour;A2
-behind;A1
-being;B2
-belief;B1
-believe;A1
-bell;B1
-belong;A2
-below;,;A1
-belt;A2
-bend;B1
-benefit;A2,B1
-bent;B2
-best;A1,;,A2
-bet;B2
-better;A1,;A2,B1
-between;A1,;A2
-beyond;B2
-bicycle;A1
-big;A1
-bike;A1
-bill;A1,B2
+beg,
+begin,
+beginning,
+behave,
+behaviour,
+behind,
+being,
+belief,
+believe,
+bell,
+belong,
+below;,,
+belt,
+bend,
+benefit,,B1
+bent,
+best,,;,A2
+bet,
+better,,,,B1
+between,,,
+beyond,
+bicycle,
+big,
+bike,
+bill,,B2
 billion number A2
-bin;A2
-biology;A2
-bird;A1
-birth;A2
-birthday;A1
-biscuit;A2
-bit;A2
-bite;B1
-bitter;B2
-black;A1
-blame;B2
-blank;A2
-blind;B2
-block;B1
-blog;A1
-blonde;A1
-blood;A2
-blow;A2
-blue;A1
-board;A2,B1
-boat;A1
-body;A1
-boil;A2
-bomb;B1
-bond;B2
-bone;A2
-book;A1,A2
-boot;A1
-border;B1,B2
-bored;A1
-boring;A1
-born;A1
-borrow;A2
-boss;A2
+bin,
+biology,
+bird,
+birth,
+birthday,
+biscuit,
+bit,
+bite,
+bitter,
+black,
+blame,
+blank,
+blind,
+block,
+blog,
+blonde,
+blood,
+blow,
+blue,
+board,,B1
+boat,
+body,
+boil,
+bomb,
+bond,
+bone,
+book,,A2
+boot,
+border,,B2
+bored,
+boring,
+born,
+borrow,
+boss,
 both det./pron. A1
-bother;B1
+bother,
 
 перед подготовкой.
-нач.;B2
-начать;A1
-начало;A1
-вести себя;A2
-поведение;A2
+нач.,
+начать,
+начало,
+вести себя,
+поведение,
 за преп.,A1
-будучи;B2
-вера;B1
+будучи,
+вера,
 верю против А1
-звонок;B1
-принадлежат;A2
+звонок,
+принадлежат,
 ниже нареч., преп. A1
-ремень;A2
+ремень,
 загнуть в.,B1
-выгода;A2, версия B1
-изогнутый;B2
+выгода,, версия B1
+изогнутый,
 лучший;А1, нареч., Н. A2
-ставка;B2
-лучше;A1,A2,B1
+ставка,
+лучше,,A2,B1
 между преп. A1,A2
 вне подготовки,B2
-велосипед;A1
-большой;A1
-велосипед;A1
-счет;A1,B2
+велосипед,
+большой,
+велосипед,
+счет,,B2
 миллиард число A2
-bin;A2
-биология;A2
-птица;A1
-рождение;A2
-день рождения;A1
+bin,
+биология,
+птица,
+рождение,
+день рождения,
 бисквит н. A2
-бит;A2
-укус;B1
-горький;B2
-черный;A1
-виноват;B2
-пустой;A2
-слепой;B2
+бит,
+укус,
+горький,
+черный,
+виноват,
+пустой,
+слепой,
 блок;Б1
-блог;A1
-блондинка;A1
-кровь;A2
-удар;A2
-синий;A1
-доска;A2, версия B1
-лодка;A1
-тело;A1
-кипятить;A2
-бомба;B1
-облигация;B2
-кость;A2
-книга;A1,A2
-загрузка;A1
-граница;B1, версия B2
-скучный;A1
-скучный;A1
-родился;A1
-заимствовать;A2
+блог,
+блондинка,
+кровь,
+удар,
+синий,
+доска,, версия B1
+лодка,
+тело,
+кипятить,
+бомба,
+облигация,
+кость,
+книга,,A2
+загрузка,
+граница,, версия B2
+скучный,
+скучный,
+родился,
+заимствовать,
 босс н. A2
 как дет./прон. A1
-беспокоить;B1
+беспокоить,
 
-branch;B1
-brand;B1
-brave;B1
-bread;A1
-break;A1
-breakfast;A1
-breast;B2
-breath;B1
-breathe;B1
-breathing;B1
-bride;B1
-bridge;A2
-brief;B2
-bright;A2
-brilliant;A2
-bring;A1
-broad;B2
-broadcast;B2
-broken;A2
-brother;A1
-brown;A1
-brush;A2
-bubble;B1
-budget;B2
-build;A1
-building;A1
-bullet;B2
-bunch;B2
-burn;A2,B2
-bury;B1
-bus;A1
-bush;B2
-business;A1
-businessman;A2
-busy;A1
-but conj. A1,;B2
-butter;A1
-button;A2
-buy;A1
-by;A1,;B1
+branch,
+brand,
+brave,
+bread,
+break,
+breakfast,
+breast,
+breath,
+breathe,
+breathing,
+bride,
+bridge,
+brief,
+bright,
+brilliant,
+bring,
+broad,
+broadcast,
+broken,
+brother,
+brown,
+brush,
+bubble,
+budget,
+build,
+building,
+bullet,
+bunch,
+burn,,B2
+bury,
+bus,
+bush,
+business,
+businessman,
+busy,
+but conj. A1,,
+butter,
+button,
+buy,
+by,,,
 bye exclam. A1
-cable;B2
-cafe;A1
-cake;A1
-calculate;B2
-call;A1
-calm;B1
-camera;A1
-camp;A2
-campaign;B1
-camping;A2
-campus;B1
-can1 modal;A1
-can2;A2
-cancel;B2
-cancer;B2
-candidate;B1
-cannot;A1
-cap;B1
-capable;B2
-capacity;B2
-capital;A1
-captain;B1
+cable,
+cafe,
+cake,
+calculate,
+call,
+calm,
+camera,
+camp,
+campaign,
+camping,
+campus,
+can1 modal,
+can2,
+cancel,
+cancer,
+candidate,
+cannot,
+cap,
+capable,
+capacity,
+capital,
+captain,
 
-филиал;B1
-марка;B1
-смелый;B1
+филиал,
+марка,
+смелый,
 хлеб н. A1
-сломать;A1
-завтрак;A1
-грудь;B2
-дыхание;B1
-дышать;B1
-дыхание;B1
-невеста;B1
-мост;A2
-краткий;B2
-яркий;A2
-блестящий;A2
-принести;A1
-широкий;B2
-трансляция;B2
-сломанный;A2
+сломать,
+завтрак,
+грудь,
+дыхание,
+дышать,
+дыхание,
+невеста,
+мост,
+краткий,
+яркий,
+блестящий,
+принести,
+широкий,
+трансляция,
+сломанный,
 брат н. A1
-коричневый;A1
-кисть;A2
-пузырь;B1
-бюджет;B2
-сборка;A1
-здание;A1
-пуля;B2
-пучок;B2
-сжечь;A2,B2
-похоронить;B1
+коричневый,
+кисть,
+пузырь,
+бюджет,
+сборка,
+здание,
+пуля,
+пучок,
+сжечь,,B2
+похоронить,
 автобус № A1
-куст;B2
-бизнес;A1
+куст,
+бизнес,
 бизнесмен н. A2
-занято;A1
+занято,
 но соед. A1, преп. B2
 масло сливочное н. A1
-кнопка;A2
-купить;A1
+кнопка,
+купить,
 по приготов. A1,B1
 пока восклицать. A1
-кабель;B2
-кафе;A1
+кабель,
+кафе,
 торт н. A1
-вычислить;B2
+вычислить,
 звоните в.,A1
 спокойный прил.,B1
-камера;A1
+камера,
 лагерь;А2
-Кампания;B1
-кемпинг;A2
-кампус;B1
+Кампания,
+кемпинг,
+кампус,
 
-can1 модальный;A1
-can2;A2
-отменить;B2
-рак;B2
+can1 модальный,
+can2,
+отменить,
+рак,
 кандидат н. B1
-не может;A1
-колпачок;B1
-способный;B2
-емкость;B2
-заглавная;A1
+не может,
+колпачок,
+способный,
+емкость,
+заглавная,
 капитан н. B1
 
-bottle;A1
-bottom;A2
-bowl;A2
-box;A1
-boy;A1
-boyfriend;A1
-brain;A2
-careless;B1
-carpet;A2
-carrot;A1
-carry;A1
-cartoon;A2
-case;A2
-cash;A2
-cast;B2
-castle;A2
-cat;A1
-catch;A2,B2
-category;B1
-cause;A2
-CD;A1
-ceiling;B1
-celebrate;A2
-celebration;B1
-celebrity;A2
-cell;B2
-cent;A1
-central;B1
-centre;A1,B1
-century;A1
-ceremony;B1
-certain;A2
-certainly;A2
-chain;B1,B2
-chair;A1,B2
-chairman;B2
-challenge;B1,B2
-champion;B1
-chance;A2
-change;A1
-channel;B1
-chapter;B1
-character;A2
-characteristic;B2
-charge;B1
-charity;A2
-chart;A1,B2
-chat;A2
-cheap;A1,;B1
-cheat;B1
-check;A1,A2
-cheerful;B1
-cheese;A1
-chef;A2
-chemical;B1
-chemistry;A2
-chest;B1
-chicken;A1
-chief;B2
-child;A1
-childhood;B1
-chip;A2
+bottle,
+bottom,
+bowl,
+box,
+boy,
+boyfriend,
+brain,
+careless,
+carpet,
+carrot,
+carry,
+cartoon,
+case,
+cash,
+cast,
+castle,
+cat,
+catch,,B2
+category,
+cause,
+CD,
+ceiling,
+celebrate,
+celebration,
+celebrity,
+cell,
+cent,
+central,
+centre,,B1
+century,
+ceremony,
+certain,
+certainly,
+chain,,B2
+chair,,B2
+chairman,
+challenge,,B2
+champion,
+chance,
+change,
+channel,
+chapter,
+character,
+characteristic,
+charge,
+charity,
+chart,,B2
+chat,
+cheap,,,
+cheat,
+check,,A2
+cheerful,
+cheese,
+chef,
+chemical,
+chemistry,
+chest,
+chicken,
+chief,
+child,
+childhood,
+chip,
 
-бутылка;A1
-нижнее;A2
-чаша;A2
-коробка;A1
+бутылка,
+нижнее,
+чаша,
+коробка,
 мальчик н. A1
 парень н. A1
-мозг;A2
-небрежный;B1
-ковер;A2
+мозг,
+небрежный,
+ковер,
 морковь н. A1
-переносить;A1
-мультфильм;A2
-case;A2
-наличные деньги;A2
-cast;B2
-замок;A2
-кошка;A1
-поймать;A2,B2
-категория;B1
-причина;A2
-CD;A1
-потолок;B1
-праздновать;A2
-праздник;B1
-знаменитость;A2
-ячейка;B2
-цент;A1
-центральный;B1
-центр;A1, версия B1
-век;A1
-церемония;B1
-определенные;A2
-обязательно;A2
-цепь;B1, версия B2
-стул;A1,B2
+переносить,
+мультфильм,
+case,
+наличные деньги,
+cast,
+замок,
+кошка,
+поймать,,B2
+категория,
+причина,
+CD,
+потолок,
+праздновать,
+праздник,
+знаменитость,
+ячейка,
+цент,
+центральный,
+центр,, версия B1
+век,
+церемония,
+определенные,
+обязательно,
+цепь,, версия B2
+стул,,B2
 председатель н. B2
-вызов;B1, версия B2
-чемпион;B1
-шанс;A2
-изменить;A1
-канал;B1
-глава;B1
-персонаж;A2
-характеристика;B2
-заряд;B1
-благотворительность;A2
-диаграмма;A1,B2
-чат;A2
-дешевый;A1,B1
-чит;B1
-проверить;A1,A2
-веселый;B1
-сыр;A1
+вызов,, версия B2
+чемпион,
+шанс,
+изменить,
+канал,
+глава,
+персонаж,
+характеристика,
+заряд,
+благотворительность,
+диаграмма,,B2
+чат,
+дешевый,,B1
+чит,
+проверить,,A2
+веселый,
+сыр,
 повар н. A2
-химический;B1
-химия;A2
-грудь;B1
-курица;A1
-главный;B2
-ребенок;A1
-детство;B1
-чип;A2
+химический,
+химия,
+грудь,
+курица,
+главный,
+ребенок,
+детство,
+чип,
 
-capture;B2
-car;A1
-card;A1
-care;A2
-career;A1
-careful;A2
-carefully;A2
-classical;A2
-classroom;A1
-clause;B1
-clean;A1
-clear;A2,B1
-clearly;A2
-clever;A2
-click;B1
-client;B1
-climate;A2
-climb;A1,B1
-clock;A1
-close1;A1,B2
-close2;A2,;B1
-closed;A2
-closely;B2
-cloth;B1
-clothes;A1
-clothing;A2
-cloud;A2
-club;A1
-clue;B1
-coach;A2,B1
-coal;B1
-coast;A2
-coat;A1
-code;A2
-coffee;A1
-coin;B1
-cold;A1
-collapse;B2
-colleague;A2
-collect;A2
-collection;B1
-college;A1
-colour;A1
-coloured;B1
-column;A2
-combination;B2
-combine;B1
-come;A1
-comedy;A2
-comfort;B2
-comfortable;A2
-command;B2
-comment;A2,B1
-commercial;B1
-commission;B2
-commit;B1
-commitment;B2
-committee;B2
-common;A1
-commonly;B2
-communicate;A2
-communication;B1
+capture,
+car,
+card,
+care,
+career,
+careful,
+carefully,
+classical,
+classroom,
+clause,
+clean,
+clear,,B1
+clearly,
+clever,
+click,
+client,
+climate,
+climb,,B1
+clock,
+close1,,B2
+close2,,,
+closed,
+closely,
+cloth,
+clothes,
+clothing,
+cloud,
+club,
+clue,
+coach,,B1
+coal,
+coast,
+coat,
+code,
+coffee,
+coin,
+cold,
+collapse,
+colleague,
+collect,
+collection,
+college,
+colour,
+coloured,
+column,
+combination,
+combine,
+come,
+comedy,
+comfort,
+comfortable,
+command,
+comment,,B1
+commercial,
+commission,
+commit,
+commitment,
+committee,
+common,
+commonly,
+communicate,
+communication,
 
-захват;B2
-автомобиль;A1
-карта;A1
-уход;A2
-карьера;A1
-осторожный;A2
+захват,
+автомобиль,
+карта,
+уход,
+карьера,
+осторожный,
 внимательно посоветовать. A2
-классический;A2
+классический,
 класс н. A1
-пункт;B1
+пункт,
 чистый прил.,A1
-ясный;A2, версия B1
-явно;A2
-умный;A2
-нажмите;B1
-клиент;B1
-климат;A2
-подняться на;A1,B1
-часы;A1
-закрыть1;A1,B2
-close2;A2,B1
-закрытый;A2
-внимательно;B2
-ткань;B1
-одежда;A1
-одежда;A2
-облако;A2
-клуб;A1
-подсказка;B1
+ясный,, версия B1
+явно,
+умный,
+нажмите,
+клиент,
+климат,
+подняться на,,B1
+часы,
+закрыть1,,B2
+close2,,B1
+закрытый,
+внимательно,
+ткань,
+одежда,
+одежда,
+облако,
+клуб,
+подсказка,
 тренер н. A2, версия B1
 уголь н. B1
-побережье;A2
-пальто;A1
-код;A2
+побережье,
+пальто,
+код,
 кофе н. A1
-монета;B1
-холодный;A1
-коллапс;B2
+монета,
+холодный,
+коллапс,
 коллега н. A2
-собирать;A2
-сборник;B1
-колледж;A1
-цвет;A1
-цветной;B1
-столбец;A2
-комбинация;B2
-объединить;B1
-прийти;A1
-комедия;A2
-Комфорт;B2
-удобный;A2
-команда;B2
-комментарий;A2, версия B1
-коммерческий;B1
-Комиссия;B2
-совершить;B1
-обязательство;B2
-комитет;B2
-общий;A1
-обычно;B2
-общаться;A2
-связь;B1
+собирать,
+сборник,
+колледж,
+цвет,
+цветной,
+столбец,
+комбинация,
+объединить,
+прийти,
+комедия,
+Комфорт,
+удобный,
+команда,
+комментарий,, версия B1
+коммерческий,
+Комиссия,
+совершить,
+обязательство,
+комитет,
+общий,
+обычно,
+общаться,
+связь,
 
-chocolate;A1
-choice;A2
-choose;A1
-church;A2
-cigarette;A2
-cinema;A1
-circle;A2
-circumstance;B2
-cite;B2
-citizen;B2
-city;A1
-civil;B2
-claim;B1
-class;A1
-classic;B2
-computer;A1
-concentrate;B1
-concentration;B2
-concept;B2
-concern;B2
-concerned;B2
-concert;A1
-conclude;B1
-conclusion;B1
-condition;A2
-conduct;B2
-conference;A2
-confidence;B2
-confident;B1
-confirm;B1
-conflict;B2
-confuse;B1
-confused;B1
-confusing;B2
-connect;A2
-connected;A2
-connection;B1
-conscious;B2
-consequence;B1
-conservative;B2
-consider;A2
-consideration;B2
-consist;B1
-consistent;B2
-constant;B2
-constantly;B2
-construct;B2
-construction;B2
-consume;B1
-consumer;B1
-contact;B1
-contain;A2
-container;B1
-contemporary;B2
-content1;B1
-contest;B2
-context;A2
-continent;A2
-continue;A2
-continuous;B1
-contract;B2
-contrast;B1
-contribute;B2
+chocolate,
+choice,
+choose,
+church,
+cigarette,
+cinema,
+circle,
+circumstance,
+cite,
+citizen,
+city,
+civil,
+claim,
+class,
+classic,
+computer,
+concentrate,
+concentration,
+concept,
+concern,
+concerned,
+concert,
+conclude,
+conclusion,
+condition,
+conduct,
+conference,
+confidence,
+confident,
+confirm,
+conflict,
+confuse,
+confused,
+confusing,
+connect,
+connected,
+connection,
+conscious,
+consequence,
+conservative,
+consider,
+consideration,
+consist,
+consistent,
+constant,
+constantly,
+construct,
+construction,
+consume,
+consumer,
+contact,
+contain,
+container,
+contemporary,
+content1,
+contest,
+context,
+continent,
+continue,
+continuous,
+contract,
+contrast,
+contribute,
 
 шоколад н. A1
-выбор;A2
-выберите;A1
-церковь;A2
-сигарета;A2
+выбор,
+выберите,
+церковь,
+сигарета,
 кинотеатр н. A1
 круг в. А2
-обстоятельство;B2
-цитировать;B2
-гражданин;B2
-город;A1
-гражданский;B2
-иск;B1
-класс;A1
-классический;B2
-компьютер;A1
-концентрат;B1
-концентрация;B2
-концепция;B2
+обстоятельство,
+цитировать,
+гражданин,
+город,
+гражданский,
+иск,
+класс,
+классический,
+компьютер,
+концентрат,
+концентрация,
+концепция,
 Концерн;В2
-обеспокоенный;B2
-концерт;A1
-заключить;B1
-заключение;B1
-условие;A2
-вести;B2
-конференция;A2
-уверенность;B2
-уверенный;B1
-подтвердить;B1
-конфликт;B2
-путать;B1
-запутанный;B1
-сбивающий с толку;B2
-подключить;A2
-подключенный;A2
-подключение;B1
-сознательный;B2
-следствие;B1
-консервативный;B2
-рассмотрим;A2
-рассмотрение;B2
-состоят из;B1
-постоянный;B2
-постоянный;B2
+обеспокоенный,
+концерт,
+заключить,
+заключение,
+условие,
+вести,
+конференция,
+уверенность,
+уверенный,
+подтвердить,
+конфликт,
+путать,
+запутанный,
+сбивающий с толку,
+подключить,
+подключенный,
+подключение,
+сознательный,
+следствие,
+консервативный,
+рассмотрим,
+рассмотрение,
+состоят из,
+постоянный,
+постоянный,
 постоянно опов. B2
-построить;B2
-строительство;B2
-потреблять;B1
-потребитель;B1
-контакт;B1
-содержат;A2
-контейнер;B1
-современный;B2
-content1;B1
-конкурс;B2
-контекст;A2
-континент;A2
-продолжить;A2
-непрерывный;B1
-договор;B2
-контраст;B1
-способствовать;B2
+построить,
+строительство,
+потреблять,
+потребитель,
+контакт,
+содержат,
+контейнер,
+современный,
+content1,
+конкурс,
+контекст,
+континент,
+продолжить,
+непрерывный,
+договор,
+контраст,
+способствовать,
 
-community;A2
-company;A1
-compare;A1
-comparison;B1
-compete;A2
-competition;A2
-competitive;B1
-competitor;B1
-complain;A2
-complaint;B1
-complete;A1
-completely;A2
-complex;B1,B2
-complicated;B2
-component;B2
-council;B2
-count;A2,B1
-country;A1
-countryside;B1
-county;B2
-couple;A2
-courage;B2
-course;A1
-court;B1
-cousin;A1
-cover;A2,B1
-covered;B1
-cow;A1
-crash;B2
-crazy;A2
-cream;A1,B1
-create;A1
-creation;B2
-creative;A2
-creature;B2
-credit;A2,B2
-crew;B2
-crime;A2
-criminal;A2,B1
-crisis;B2
-criterion;B2
-critic;B2
-critical;B2
-criticism;B2
-criticize;B2
-crop;B2
-cross;A2
-crowd;A2
-crowded;A2
-crucial;B2
-cruel;B1
-cry;A2,B2
-cultural;B1
-culture;A1
-cup;A1
-cupboard;A2
-cure;B2
-curly;A2
-currency;B1
-current;B1,B2
-currently;B1
-curtain;B1
-curve;B2
+community,
+company,
+compare,
+comparison,
+compete,
+competition,
+competitive,
+competitor,
+complain,
+complaint,
+complete,
+completely,
+complex,,B2
+complicated,
+component,
+council,
+count,,B1
+country,
+countryside,
+county,
+couple,
+courage,
+course,
+court,
+cousin,
+cover,,B1
+covered,
+cow,
+crash,
+crazy,
+cream,,B1
+create,
+creation,
+creative,
+creature,
+credit,,B2
+crew,
+crime,
+criminal,,B1
+crisis,
+criterion,
+critic,
+critical,
+criticism,
+criticize,
+crop,
+cross,
+crowd,
+crowded,
+crucial,
+cruel,
+cry,,B2
+cultural,
+culture,
+cup,
+cupboard,
+cure,
+curly,
+currency,
+current,,B2
+currently,
+curtain,
+curve,
 
-сообщество;A2
-компания;A1
-сравните;A1
-сравнение;B1
-соревноваться;A2
-конкурс;A2
-конкурентный;B1
-соискатель;B1
+сообщество,
+компания,
+сравните,
+сравнение,
+соревноваться,
+конкурс,
+конкурентный,
+соискатель,
 жалоба против A2
-жалоба;B1
+жалоба,
 полное прил.,A1
-полностью;A2
+полностью,
 сложный;В1,B2
-сложный;B2
-компонент;B2
-совет;B2
-счет;A2,B1
-страна;A1
-сельская местность;B1
-округ;B2
-пара;A2
-смелость;B2
-конечно;A1
-суд;B1
-двоюродный брат;A1
-обложка;A2,B1
-покрытый;B1
+сложный,
+компонент,
+совет,
+счет,,B1
+страна,
+сельская местность,
+округ,
+пара,
+смелость,
+конечно,
+суд,
+двоюродный брат,
+обложка,,B1
+покрытый,
 корова н. A1
-авария;B2
-сумасшедший;A2
+авария,
+сумасшедший,
 крем н. A1,B1
-создать;A1
-создание;B2
-творческий;A2
-существо;B2
-кредит;A2,B2
-экипаж;B2
+создать,
+создание,
+творческий,
+существо,
+кредит,,B2
+экипаж,
 преступление н. A2
-уголовное;A2,B1
-кризис;B2
-критерий;B2
-критик;B2
-критический;B2
-критика;B2
-критиковать;B2
-урожай;B2
-крест;A2
-толпа;A2
-многолюдный;A2
-критический;B2
-жестокий;B1
-крик;A2,B2
-культурный;B1
-культура;A1
-чашка;A1
-шкаф;A2
-вылечить;B2
-кудрявый;A2
-валюта;B1
+уголовное,,B1
+кризис,
+критерий,
+критик,
+критический,
+критика,
+критиковать,
+урожай,
+крест,
+толпа,
+многолюдный,
+критический,
+жестокий,
+крик,,B2
+культурный,
+культура,
+чашка,
+шкаф,
+вылечить,
+кудрявый,
+валюта,
 текущий;В1,B2
-в настоящее время;B1
-занавеска;B1
-кривая;B2
+в настоящее время,
+занавеска,
+кривая,
 
-contribution;B2
-control;A2
-convenient;B1
-conversation;A1
-convert;B2
-convince;B1
-convinced;B2
-cook;A1,A2
-cooker;A2
-cooking;A1
-cool;A1,B1
-copy;A2
-core;B2
-corner;A2
-corporate;B2
-correct;A1
-correctly;A2
-cost;A1
-costume;B1
-cottage;B1
-cotton;B1
-could modal;A1
-debate;B2
-debt;B2
-decade;B1
-December;A1
-decent;B2
-decide;A1
-decision;A2
-declare;B2
-decline;B2
-decorate;B1
-decoration;B2
-decrease;B2
-deep;A2,;B1
-deeply;B2
-defeat;B2
-defence;B2
-defend;B2
-define;B1
-definite;B1
-definitely;A2
-definition;B1
-degree;A2
-delay;B2
-deliberate;B2
-deliberately;B2
-delicious;A1
-delight;B2
-delighted;B2
-deliver;B1
-delivery;B2
-demand;B2
-demonstrate;B2
-dentist;A2
-deny;B2
-department;A2
-departure;B1
-depend;A2
-depressed;B2
-depressing;B2
-depth;B2
+contribution,
+control,
+convenient,
+conversation,
+convert,
+convince,
+convinced,
+cook,,A2
+cooker,
+cooking,
+cool,,B1
+copy,
+core,
+corner,
+corporate,
+correct,
+correctly,
+cost,
+costume,
+cottage,
+cotton,
+could modal,
+debate,
+debt,
+decade,
+December,
+decent,
+decide,
+decision,
+declare,
+decline,
+decorate,
+decoration,
+decrease,
+deep,,,
+deeply,
+defeat,
+defence,
+defend,
+define,
+definite,
+definitely,
+definition,
+degree,
+delay,
+deliberate,
+deliberately,
+delicious,
+delight,
+delighted,
+deliver,
+delivery,
+demand,
+demonstrate,
+dentist,
+deny,
+department,
+departure,
+depend,
+depressed,
+depressing,
+depth,
 
-вклад;B2
+вклад,
 Контрольная;А2
-удобный;B1
-разговор;A1
-преобразовать;B2
+удобный,
+разговор,
+преобразовать,
 убедить против B1
-убежденный;B2
-повар;A1,A2
-плита;A2
-кулинария;A1
-крутой;A1, версия B1
-копия;A2
-core;B2
-угол;A2
-корпоративный;B2
+убежденный,
+повар,,A2
+плита,
+кулинария,
+крутой,, версия B1
+копия,
+core,
+угол,
+корпоративный,
 правильное прил.,A1
 правильно посоветовать. A2
 Стоимость;А1
-костюм;B1
+костюм,
 коттедж н. B1
-хлопок;B1
-может модально;A1
-прений;B2
-долг;B2
-декада;B1
+хлопок,
+может модально,
+прений,
+долг,
+декада,
 Декабрь н. A1
-достойный;B2
-решить;A1
-решение;A2
-объявить;B2
-отклонить;B2
-украсить;B1
-украшение;B2
-уменьшение;B2
-глубокий;A2,B1
+достойный,
+решить,
+решение,
+объявить,
+отклонить,
+украсить,
+украшение,
+уменьшение,
+глубокий,,B1
 глубоко посоветовал. B2
-поражение;B2
-защита;B2
+поражение,
+защита,
 защищать против B2
-определить;B1
-определенный;B1
-определенно;A2
-определение;B1
-степень;A2
-задержка;B2
-преднамеренный;B2
-намеренно;B2
-вкусный;A1
-восторг;B2
-восторженный;B2
-доставить;B1
-доставка;B2
+определить,
+определенный,
+определенно,
+определение,
+степень,
+задержка,
+преднамеренный,
+намеренно,
+вкусный,
+восторг,
+восторженный,
+доставить,
+доставка,
 Требование;В2
-продемонстрировать;B2
+продемонстрировать,
 стоматолог н. A2
-отрицать;B2
-отдел;A2
-выезд;B1
-зависит от;A2
-депрессивный;B2
-удручающий;B2
-глубина;B2
+отрицать,
+отдел,
+выезд,
+зависит от,
+депрессивный,
+удручающий,
+глубина,
 
-curved;B2
-custom;B1
-customer;A1
-cut;A1,B1
-cycle;A2
-dad;A1
-daily;A2,;B1
-damage;B1
-dance;A1
-dancer;A1
-dancing;A1
-danger;A2
-dangerous;A1
-dark;A1,A2
-data;A2
-date;A1,B2
-daughter;A1
-day;A1
-dead;A2
-deal;A2,B1
-dear;A1, exclam. A2
-death;A2
-differently;A2
-difficult;A1
-difficulty;B1
-dig;B2
-digital;A2
-dinner;A1
-direct;A2,;B1
-direction;A2
-directly;B1
-director;A2
-dirt;B1
-dirty;A1
-disadvantage;B1
-disagree;A2
-disappear;A2
-disappointed;B1
-disappointing;B1
-disaster;A2
-disc;B2
-discipline;B2
-discount;B1,B2
-discover;A2
-discovery;A2
-discuss;A1
-discussion;A2
-disease;A2
-dish;A1
-dishonest;B2
-dislike;B1
-dismiss;B2
-display;B2
-distance;A2
-distribute;B2
-distribution;B2
-district;B2
-divide;B1,B2
-division;B2
-divorced;A2
-do1 auxiliary;A1
-doctor;A1
+curved,
+custom,
+customer,
+cut,,B1
+cycle,
+dad,
+daily,,,
+damage,
+dance,
+dancer,
+dancing,
+danger,
+dangerous,
+dark,,A2
+data,
+date,,B2
+daughter,
+day,
+dead,
+deal,,B1
+dear,, exclam. A2
+death,
+differently,
+difficult,
+difficulty,
+dig,
+digital,
+dinner,
+direct,,,
+direction,
+directly,
+director,
+dirt,
+dirty,
+disadvantage,
+disagree,
+disappear,
+disappointed,
+disappointing,
+disaster,
+disc,
+discipline,
+discount,,B2
+discover,
+discovery,
+discuss,
+discussion,
+disease,
+dish,
+dishonest,
+dislike,
+dismiss,
+display,
+distance,
+distribute,
+distribution,
+district,
+divide,,B2
+division,
+divorced,
+do1 auxiliary,
+doctor,
 
-изогнутый;B2
-custom;B1
-заказчик;A1
-вырезать;A1,B1
-цикл;A2
+изогнутый,
+custom,
+заказчик,
+вырезать,,B1
+цикл,
 папа н. A1
-ежедневный;A2,B1
+ежедневный,,B1
 Ущерб;В1
 танец;А1
 танцор н. A1
-танцы;A1
-опасность;A2
-опасный;A1
+танцы,
+опасность,
+опасный,
 темный;А1,A2
-данные;A2
-дата;A1,B2
+данные,
+дата,,B2
 дочь н. A1
-день;A1
-мертвый;A2
-дело;A2,B1
+день,
+мертвый,
+дело,,B1
 дорогой
-смерть;A2
-иначе;A2
-трудный;A1
-сложность;B1
-Dig;B2
-цифровой;A2
-ужин;A1
-прямой;A2,B1
-направление;A2
-прямо;B1
+смерть,
+иначе,
+трудный,
+сложность,
+Dig,
+цифровой,
+ужин,
+прямой,,B1
+направление,
+прямо,
 директор н. A2
-грязь;B1
-грязный;A1
-недостаток;B1
-не согласен;A2
-исчезнуть;A2
-разочарованный;B1
-разочаровывающий;B1
-катастрофа;A2
-диск;B2
-дисциплина;B2
-скидка;B1, версия B2
-Откройте для себя;A2
-открытие;A2
-обсудить;A1
-обсуждение;A2
-болезнь;A2
-блюдо;A1
-нечестный;B2
-нелюбовь;B1
-отклонить;B2
-дисплей;B2
-расстояние;A2
-распространять;B2
-распределение;B2
-район;B2
-разделить;B1,B2
-дивизия;B2
-разведенный;A2
+грязь,
+грязный,
+недостаток,
+не согласен,
+исчезнуть,
+разочарованный,
+разочаровывающий,
+катастрофа,
+диск,
+дисциплина,
+скидка,, версия B2
+Откройте для себя,
+открытие,
+обсудить,
+обсуждение,
+болезнь,
+блюдо,
+нечестный,
+нелюбовь,
+отклонить,
+дисплей,
+расстояние,
+распространять,
+распределение,
+район,
+разделить,,B2
+дивизия,
+разведенный,
 
-do1 вспомогательная;A1
-доктор н. A1describe;A1
-description;A1
-desert;A2,B2
-deserve;B2
-design;A1
-designer;A2
-desire;B2
-desk;A1
-desperate;B2
-despite;B1
-destination;B1
-destroy;A2
-detail;A1,B2
-detailed;B2
-detect;B2
-detective;A2
-determine;B1
-determined;B1
-develop;A2
-development;B1
-device;A2
-diagram;B1
-dialogue;A1
-diamond;B1
-diary;A2
-dictionary;A1
-die;A1
-diet;A1
-difference;A1
-different;A1
-drug;A2
-drum;B1
-drunk;B1
-dry;A2
-due;B1
-during;A1
-dust;B1
-duty;B1
-DVD;A1
+do1 вспомогательная,
+доктор н. A1describe,
+description,
+desert,,B2
+deserve,
+design,
+designer,
+desire,
+desk,
+desperate,
+despite,
+destination,
+destroy,
+detail,,B2
+detailed,
+detect,
+detective,
+determine,
+determined,
+develop,
+development,
+device,
+diagram,
+dialogue,
+diamond,
+diary,
+dictionary,
+die,
+diet,
+difference,
+different,
+drug,
+drum,
+drunk,
+dry,
+due,
+during,
+dust,
+duty,
+DVD,
 each det./pron./adv. A1
-ear;A1
-early;;A1
-earn;A2
-earth;A2
-earthquake;B1
-easily;A2
-east;A1
-eastern;B1
-easy;A1
-eat;A1
-economic;B1
-economy;B1
-edge;B1
-edit;B2
-edition;B2
-editor;B1
-educate;B1
-educated;B1
-education;A2
-educational;B1
-effect;A2
-effective;B1
-effectively;B1
-efficient;B2
+ear,
+early;,
+earn,
+earth,
+earthquake,
+easily,
+east,
+eastern,
+easy,
+eat,
+economic,
+economy,
+edge,
+edit,
+edition,
+editor,
+educate,
+educated,
+education,
+educational,
+effect,
+effective,
+effectively,
+efficient,
 
-описать;A1
-описание;A1
-пустыня;A2,B2
-заслуживают;B2
+описать,
+описание,
+пустыня,,B2
+заслуживают,
 конструкция н., в. А1
 дизайнер Н. A2
-желание;B2
-стол;A1
-отчаянный;B2
+желание,
+стол,
+отчаянный,
 несмотря на подготовку. B1
-пункт назначения;B1
-уничтожить;A2
-деталь;A1,B2
-подробный;B2
-Обнаружить;B2
+пункт назначения,
+уничтожить,
+деталь,,B2
+подробный,
+Обнаружить,
 детектив н. A2
-определить;B1
-определяется;B1
-разработать;A2
-развитие;B1
-устройство;A2
-диаграмма;B1
-диалог;A1
-алмаз;B1
-дневник;A2
-словарь;A1
+определить,
+определяется,
+разработать,
+развитие,
+устройство,
+диаграмма,
+диалог,
+алмаз,
+дневник,
+словарь,
 умереть против A1
-диета;A1
-разница;A1
-другой;A1
+диета,
+разница,
+другой,
 препарат н. A2
-барабан;B1
-пьяный;B1
+барабан,
+пьяный,
 сухой прил., т. A2
-должный;B1
+должный,
 во время подготовки. A1
-пыль;B1
-обязанность;B1
-DVD;A1
+пыль,
+обязанность,
+DVD,
 каждый дет. / пр. / адв. A1
 зарабатывать. A1
 ранний прил.,A1
-заработать;A2
-земля;A2
-землетрясение;B1
-легко;A2
+заработать,
+земля,
+землетрясение,
+легко,
 восток прил.,A1
-восточный;B1
-легкий;A1
-есть;A1
-экономический;B1
-экономика;B1
-край;B1
-редактировать;B2
-редакция;B2
-редактор;B1
-воспитывать;B1
-образованный;B1
-образование;A2
-образовательный;B1
-эффект;A2
-эффективный;B1
+восточный,
+легкий,
+есть,
+экономический,
+экономика,
+край,
+редактировать,
+редакция,
+редактор,
+воспитывать,
+образованный,
+образование,
+образовательный,
+эффект,
+эффективный,
 эффективно нарек. B1
-эффективный;B2
+эффективный,
 
-document;A2,B2
-documentary;B1
-dog;A1
-dollar;A1
-domestic;B2
-dominate;B2
-donate;B1
-door;A1
+document,,B2
+documentary,
+dog,
+dollar,
+domestic,
+dominate,
+donate,
+door,
 double det., pron.,A2,
 adv. B1
-doubt;B1
-down;,;A1
-download;A2
-downstairs;A1,A2
-downwards;B2
+doubt,
+down;,,
+download,
+downstairs,,A2
+downwards,
 dozen det. B2
-draft;B2
-drag;B2
-drama;A2
-dramatic;B2
-draw;A1
-drawing;A2
-dream;A2
-dress;A1
-dressed;B1
-drink;A1
-drive;A1,A2
-driver;A1
-driving;A2
-drop;A2,B1
-ending;A2
-enemy;B1
-energy;A2
-engage;B2
-engaged;B1
-engine;A2
-engineer;A2
-engineering;B1
-enhance;B2
-enjoy;A1
-enormous;A2
-enough det., pron.,;A1
-enquiry;B2
-ensure;B2
-enter;A2
-entertain;B1
-entertainment;B1
-enthusiasm;B2
-enthusiastic;B2
-entire;B2
-entirely;B2
-entrance;B1
-entry;B1
-environment;A2
-environmental;B1
-episode;B1
+draft,
+drag,
+drama,
+dramatic,
+draw,
+drawing,
+dream,
+dress,
+dressed,
+drink,
+drive,,A2
+driver,
+driving,
+drop,,B1
+ending,
+enemy,
+energy,
+engage,
+engaged,
+engine,
+engineer,
+engineering,
+enhance,
+enjoy,
+enormous,
+enough det., pron.,,
+enquiry,
+ensure,
+enter,
+entertain,
+entertainment,
+enthusiasm,
+enthusiastic,
+entire,
+entirely,
+entrance,
+entry,
+environment,
+environmental,
+episode,
 equalB1,B2
-equally;B1
-equipment;A2
-error;A2
-escape;B1
-especially;A2
-essay;A2
-essential;B1
+equally,
+equipment,
+error,
+escape,
+especially,
+essay,
+essential,
 
 документ № A2,B2
-документальный;B1
-собака;A1
-доллар;A1
-внутренний;B2
+документальный,
+собака,
+доллар,
+внутренний,
 доминировать против B2
-пожертвовать;B1
-дверь;A1
+пожертвовать,
+дверь,
 двойной прил., дет., прн., т. А2,
 нареч. B1
-сомневаюсь;B1
+сомневаюсь,
 вниз нареч., приготов. A1
-скачать;A2
-внизу;A1,A2
-вниз;B2
+скачать,
+внизу,,A2
+вниз,
 дюжина дет. B2
-проект;B2
-перетащить;B2
-драма;A2
-драматический;B2
-ничья;A1
-рисунок;A2
+проект,
+перетащить,
+драма,
+драматический,
+ничья,
+рисунок,
 мечта;А2
 платье;А1
-одетый;B1
+одетый,
 пить;А1
-диск;A1,A2
-водитель;A1
-вождение;A2
-drop;A2,B1
-окончание;A2
-враг;B1
-энергия;A2
-задействовать;B2
-помолвленный;B1
-двигатель;A2
+диск,,A2
+водитель,
+вождение,
+drop,,B1
+окончание,
+враг,
+энергия,
+задействовать,
+помолвленный,
+двигатель,
 инженер н. A2
-инженерная;B1
-улучшить;B2
-наслаждайтесь;A1
-огромный;A2
+инженерная,
+улучшить,
+наслаждайтесь,
+огромный,
 достаточно дет., пр.,A1
-запрос;B2
-обеспечить;B2
-введите;A2
-развлекать;B1
-развлечения;B1
-энтузиазм;B2
-восторженный;B2
-весь;B2
-полностью;B2
-подъезд;B1
-запись;B1
-окружающая среда;A2
+запрос,
+обеспечить,
+введите,
+развлекать,
+развлечения,
+энтузиазм,
+восторженный,
+весь,
+полностью,
+подъезд,
+запись,
+окружающая среда,
 прил. B1
-эпизод;B1
+эпизод,
 равный прил.,B1,B2
-одинаково;B1
-оборудование;A2
-ошибка;A2
-побег;B1
+одинаково,
+оборудование,
+ошибка,
+побег,
 особенно нарек. A2
-эссе;A2
-существенный;B1
+эссе,
+существенный,
 
-effort;B1
-egg;A1
+effort,
+egg,
 eight number A1
 eighteen number A1
 eighty number A1
-either det./pron.,;A2
-elderly;B2
-elect;B2
-election;B1
-electric;A2
-electrical;A2
-electricity;A2
-electronic;A2
-element;B1
-elephant;A1
+either det./pron.,,
+elderly,
+elect,
+election,
+electric,
+electrical,
+electricity,
+electronic,
+element,
+elephant,
 eleven number A1
-else;A1
-elsewhere;B2
-email;A1
-embarrassed;B1
-embarrassing;B1
-emerge;B2
-emergency;B1
-emotion;B1
-emotional;B2
-emphasis;B2
-emphasize;B2
-employ;A2
-employee;A2
-employer;A2
-employment;B1
-empty;A2,B1
-enable;B2
-encounter;B2
-encourage;B1
-end;A1
-existence;B2
-expand;B1
-expect;A2
-expectation;B2
-expected;B1
-expedition;B1
-expense;B2
-expensive;A1
-experience;A2,B1
-experienced;B1
-experiment;A2,B1
-expert;A2
-explain;A1
-explanation;A2
-explode;B1
-exploration;B2
-explore;B1
-explosion;B1
-export;B1
-expose;B2
-express;A2
-expression;A2
-extend;B2
-extent;B2
-external;B2
-extra;A1,;B1
-extraordinary;B2
-extreme;A2,B2
+else,
+elsewhere,
+email,
+embarrassed,
+embarrassing,
+emerge,
+emergency,
+emotion,
+emotional,
+emphasis,
+emphasize,
+employ,
+employee,
+employer,
+employment,
+empty,,B1
+enable,
+encounter,
+encourage,
+end,
+existence,
+expand,
+expect,
+expectation,
+expected,
+expedition,
+expense,
+expensive,
+experience,,B1
+experienced,
+experiment,,B1
+expert,
+explain,
+explanation,
+explode,
+exploration,
+explore,
+explosion,
+export,
+expose,
+express,
+expression,
+extend,
+extent,
+external,
+extra,,,
+extraordinary,
+extreme,,B2
 
-усилие;B1
+усилие,
 яйцо н. A1
 восьмерка номер A1
 восемнадцать число А1
 восемьдесят номер А1
 либо дет. / пр.,A2
-пожилой;B2
+пожилой,
 избрать против B2
-выборы;B1
-электрическая;A2
-электрическая;A2
-электричество;A2
-электронный;A2
-элемент;B1
-слон;A1
+выборы,
+электрическая,
+электрическая,
+электричество,
+электронный,
+элемент,
+слон,
 одиннадцать номер А1
-еще;A1
-в другом месте;B2
-электронная почта;A1
-смущенный;B1
-смущающий;B1
-Emerge;B2
-экстренная помощь;B1
-эмоция;B1
-эмоциональный;B2
-акцент;B2
-подчеркнуть;B2
-использовать;A2
+еще,
+в другом месте,
+электронная почта,
+смущенный,
+смущающий,
+Emerge,
+экстренная помощь,
+эмоция,
+эмоциональный,
+акцент,
+подчеркнуть,
+использовать,
 сотрудник н. A2
-работодатель;A2
-занятость;B1
-пустой;A2, версия B1
-включить;B2
-встреча;B2
-поощрять;B1
-конец;A1
-существование;B2
-развернуть;B1
-ожидать;A2
-ожидание;B2
-ожидаемый;B1
-экспедиция;B1
-расход;B2
-дорогой;A1
+работодатель,
+занятость,
+пустой,, версия B1
+включить,
+встреча,
+поощрять,
+конец,
+существование,
+развернуть,
+ожидать,
+ожидание,
+ожидаемый,
+экспедиция,
+расход,
+дорогой,
 опыт н. A2, версия B1
-опытный;B1
-эксперимент;A2, версия B1
-эксперт;A2
-объяснить;A1
-объяснение;A2
-взорваться;B1
-разведка;B2
-изучить;B1
-взрыв;B1
-экспорт;B1
-разоблачить;B2
-экспресс;A2
-выражение;A2
-продлить;B2
-протяженность;B2
-внешнее;B2
+опытный,
+эксперимент,, версия B1
+эксперт,
+объяснить,
+объяснение,
+взорваться,
+разведка,
+изучить,
+взрыв,
+экспорт,
+разоблачить,
+экспресс,
+выражение,
+продлить,
+протяженность,
+внешнее,
 дополнительный прил.
-экстраординарный;B2
-крайний;A2,B2
+экстраординарный,
+крайний,,B2
 
-establish;B2
-estate;B2
-estimate;B2
-ethical;B2
-euro;A1
-evaluate;B2
-even;A1,B2
-evening;A1
-event;A1
-eventually;B1
-ever;A1
+establish,
+estate,
+estimate,
+ethical,
+euro,
+evaluate,
+even,,B2
+evening,
+event,
+eventually,
+ever,
 every det. A1
 everybody pron. A1
-everyday;A2
+everyday,
 everyone pron. A1
 everything pron. A1
-everywhere;A2
-evidence;A2
+everywhere,
+evidence,
 evilB2
-exact;A2
-exactly;A2
-exam;A1
-examination;B2
-examine;B1
-example;A1
-excellent;A2
-except;A2, conj. B1
-exchange;B1
-excited;A1
-excitement;B1
-exciting;A1
-excuse;B2
-executive;B2
-exercise;A1
-exhibition;B1
-exist;A2
-feeling;A1
-fellow;B2
+exact,
+exactly,
+exam,
+examination,
+examine,
+example,
+excellent,
+except,, conj. B1
+exchange,
+excited,
+excitement,
+exciting,
+excuse,
+executive,
+exercise,
+exhibition,
+exist,
+feeling,
+fellow,
 femaleA2
-fence;B1
-festival;A1
+fence,
+festival,
 few det./adj., pron. A1
-fiction;A2
-field;A2
+fiction,
+field,
 fifteen number A1
 fifth number A1
 fifty number A1
-fight;A2
-fighting;B1
-figure;A2,B2
-file;B1,B2
-fill;A1
-film;A1,A2
-final;A1,A2
-finally;A2
-finance;B2
-financial;B1
-find;A1
-finding;B2
-fine;A1
-finger;A2
-finish;A1,A2
-fire;A1,B1
-firm;B2
+fight,
+fighting,
+figure,,B2
+file,,B2
+fill,
+film,,A2
+final,,A2
+finally,
+finance,
+financial,
+find,
+finding,
+fine,
+finger,
+finish,,A2
+fire,,B1
+firm,
 
-установить;B2
-недвижимость;B2
-оценка;B2
-этический;B2
-евро;A1
-оценить;B2
-даже;A1,B2
+установить,
+недвижимость,
+оценка,
+этический,
+евро,
+оценить,
+даже,,B2
 вечер н. A1
-событие;A1
-в итоге;B1
-когда-либо;A1
+событие,
+в итоге,
+когда-либо,
 каждый дет. A1
 все прон. A1
-повседневный;A2
+повседневный,
 все прон. A1
 все прон. A1
-везде;A2
-доказательства;A2
-злой;B2
-точное;A2
-точно;A2
-экзамен;A1
-экспертиза;B2
-изучить;B1
-пример;A1
-отличный;A2
+везде,
+доказательства,
+злой,
+точное,
+точно,
+экзамен,
+экспертиза,
+изучить,
+пример,
+отличный,
 кроме преп. A2, соедин. B1
-обмен;B1
-возбужденный;A1
-возбуждение;B1
-увлекательный;A1
-Извините;B2
-исполнительный;B2
-упражнение;A1
-выставка;B1
-существует;A2
-чувство;A1
+обмен,
+возбужденный,
+возбуждение,
+увлекательный,
+Извините,
+исполнительный,
+упражнение,
+выставка,
+существует,
+чувство,
 прил. B2
-женский;A2
-забор;B1
-фестиваль;A1
+женский,
+забор,
+фестиваль,
 немного дет. / прим., пр. A1
 художественная литература
-поле;A2
+поле,
 пятнадцатое число А1
 пятый номер А1
 пятьдесят номер A1
-драка;A2
-боевые;B1
-рисунок;A2,B2
-файл;B1, версия B2
-заполнить;A1
-фильм;A1,A2
+драка,
+боевые,
+рисунок,,B2
+файл,, версия B2
+заполнить,
+фильм,,A2
 финальный;А1,A2
-наконец;A2
-Финансы;B2
-финансовый;B1
-найти;A1
-найти;B2
-штраф;A1
-палец;A2
-закончить;A1,A2
-огонь;A1,B1
-фирма;B2
+наконец,
+Финансы,
+финансовый,
+найти,
+найти,
+штраф,
+палец,
+закончить,,A2
+огонь,,B1
+фирма,
 
 extremely;
 eye;
@@ -2039,3785 +1906,3721 @@ four number;
 fourteen number;
 fourth number;
 frame;
-free;A1,;A2,B2
-freedom;B2
-freeze;B1
-frequency;B2
-frequently;B1
-fresh;A2
-Friday;A1
-fridge;A2
-friend;A1
-friendly;A1
-friendship;B1
+free,,,,B2
+freedom,
+freeze,
+frequency,
+frequently,
+fresh,
+Friday,
+fridge,
+friend,
+friendly,
+friendship,
 
-крайне;A2
-глаз;A1
-лицо;A1, версия B1
-объект;B2
-факт;A1
-фактор;A2
-завод;A2
-сбой;A2
-отказ;B2
-ярмарка;A2
-довольно;B1
-вера;B2
-падение;A1,A2
-ложный;A1
-знакомый;B1
-семья;A1
-известный;A1
-вентилятор;A2
-fancy;B1
-фантастический;A1
-далеко;A1,B1
-ферма;A1, v.A2
-фермер;A1
-сельское хозяйство;A2
-увлекательный;B1
-мода;A2
-модный;B1
+крайне,
+глаз,
+лицо,, версия B1
+объект,
+факт,
+фактор,
+завод,
+сбой,
+отказ,
+ярмарка,
+довольно,
+вера,
+падение,,A2
+ложный,
+знакомый,
+семья,
+известный,
+вентилятор,
+fancy,
+фантастический,
+далеко,,B1
+ферма,, v.A2
+фермер,
+сельское хозяйство,
+увлекательный,
+мода,
+модный,
 быстрый прил.,A1
-закрепить;B1
-жирный;A1, n.A2
+закрепить,
+жирный,, n.A2
 отец н. A1
-вина;B2
-пользу;B1, версия B2
-любимый;A1
-бояться;A2, версия B1
-перо;B2
-особенность;A2, версия B1
+вина,
+пользу,, версия B2
+любимый,
+бояться,, версия B1
+перо,
+особенность,, версия B1
 Февраль н. A1
-плата;B2
-корм;A2,B2
-обратная связь;B2
-чувствую;A1,B2
-формальный;A2
-бывший;B2
+плата,
+корм,,B2
+обратная связь,
+чувствую,,B2
+формальный,
+бывший,
 к счастью,A2
-фортуна;B2
+фортуна,
 сорок номер А1
 вперед нарек. A2,B2
-найдено;B2
+найдено,
 четыре числа A1
 четырнадцать число А1
 четвертое число А1
-рама;B1
-свободный;A1, наре
-свобода;B2
-заморозить;B1
-частота;B2
+рама,
+свободный,, наре
+свобода,
+заморозить,
+частота,
 часто советуют. B1
-свежий;A2
-Пятница;A1
-холодильник;A2
-друг;A1
-дружеский;A1
-дружба;B1
+свежий,
+Пятница,
+холодильник,
+друг,
+дружеский,
+дружба,
 first det./number
-firstly;A2
-fish;A1,A2
-fishing;A2
-fit;A2
-fitness;B1
+firstly,
+fish,,A2
+fishing,
+fit,
+fitness,
 five number A1
-fix;A2,B2
-fixed;B1
-flag;B1
-flame;B2
-flash;B2
-flat;A1,A2
-flexible;B2
-flight;A1
-float;B2
-flood;B1
-floor;A1
-flour;B1
-flow;B1
-flower;A1
-flu;A2
-fly;A1,A2
-flying;A2
-focus;A2
-fold;B1,B2
-folding;B2
-folk;B1
-follow;A1
-following;A2,B1,;B2
-food;A1
-foot;A1
-football;A1
-for;A1
-force;B1
-foreign;A2
-forest;A2
-forever;B1
-forget;A1
-forgive;B2
-fork;A2
-form;A1
-give;A1
-glad;B1
-glass;A1
-global;B1
-glove;B1
-go;A1,B1
-goal;A2
-god;A2
-gold;A2
-golf;A2
-good;A1,A2
+fix,,B2
+fixed,
+flag,
+flame,
+flash,
+flat,,A2
+flexible,
+flight,
+float,
+flood,
+floor,
+flour,
+flow,
+flower,
+flu,
+fly,,A2
+flying,
+focus,
+fold,,B2
+folding,
+folk,
+follow,
+following,,B1,,
+food,
+foot,
+football,
+for,
+force,
+foreign,
+forest,
+forever,
+forget,
+forgive,
+fork,
+form,
+give,
+glad,
+glass,
+global,
+glove,
+go,,B1
+goal,
+god,
+gold,
+golf,
+good,,A2
 goodbye exclam./n. A1
-goods;B1
-govern;B2
-government;A2
-grab;B2
-grade;B1,B2
-gradually;B2
-graduate;B1
-grain;B1
-grand;B2
-grandfather;A1
+goods,
+govern,
+government,
+grab,
+grade,,B2
+gradually,
+graduate,
+grain,
+grand,
+grandfather,
 
 первый дет.
 во первых нарек. A2
-рыба;A1,A2
-рыбалка;A2
-подходит;A2
-фитнес;B1
+рыба,,A2
+рыбалка,
+подходит,
+фитнес,
 пять цифр А1
-исправить;A2,B2
-фиксированный;B1
-флаг;B1
-пламя;B2
-flash;B2
-квартира;A1,A2
-гибкий;B2
-рейс;A1
-поплавок;B2
-паводок;B1
-этаж;A1
+исправить,,B2
+фиксированный,
+флаг,
+пламя,
+flash,
+квартира,,A2
+гибкий,
+рейс,
+поплавок,
+паводок,
+этаж,
 мука н. B1
-поток;B1
-цветок;A1
+поток,
+цветок,
 грипп н. A2
-летать;A1,A2
-летающий;A2
-фокус;A2
-сложить;B1,B2
-складной;B2
-народный;B1
+летать,,A2
+летающий,
+фокус,
+сложить,,B2
+складной,
+народный,
 следуйте ст. A1
 следующие
-еда;A1
-стопа;A1
-футбол;A1
+еда,
+стопа,
+футбол,
 для преп. A1
-сила;B1
-иностранный;A2
-лес;A2
-навсегда;B1
-забыть;A1
-простить;B2
-вилка;A2
-форма;A1
-дать;A1
-рад;B1
-стекло;A1
-глобальный;B1
-перчатка;B1
-go;A1,B1
-цель;A2
+сила,
+иностранный,
+лес,
+навсегда,
+забыть,
+простить,
+вилка,
+форма,
+дать,
+рад,
+стекло,
+глобальный,
+перчатка,
+go,,B1
+цель,
 бог н. A2
-gold;A2
-гольф;A2
+gold,
+гольф,
 хороший;А1,A2
 до свидания восклиц. / н. A1
-товар;B1
-управлять;B2
-правительство;A2
-захватить;B2
-сорт;B1, версия B2
-постепенно;B2
+товар,
+управлять,
+правительство,
+захватить,
+сорт,, версия B2
+постепенно,
 выпускник;В1
-зерно;B1
-великий;B2
+зерно,
+великий,
 дед н. A1
 
-frighten;B1
-frightened;B1
-frightening;B1
-frog;A2
-from;A1
-front;A1
-frozen;B1
-fruit;A1
-fry;B1
-fuel;B1,B2
-full;A1
-fully;B2
-fun;A1,A2
-function;B1,B2
-fund;B2
-fundamental;B2
-funding;B2
-funny;A1
-fur;B1
-furniture;A2
-further;A2,;B1
-furthermore;B2
-future;A1,A2
-gain;B2
-gallery;A2
-game;A1
-gang;B2
-gap;A2
-garage;B1
-garden;A1
-gas;A2
-gate;A2
-gather;B1
-general;A2
-generally;B1
-generate;B2
-generation;B1
-generous;B1
-genre;B2
-gentle;B1
-gentleman;B1
-geography;A1
-get;A1
-ghost;B1
-giant;B1
-gift;A2
-girl;A1
-girlfriend;A1
-hear;A1
-hearing;B2
-heart;A2
-heat;A2
-heating;B1
-heaven;B2
-heavily;B1
-heavy;A2
-heel;B2
-height;A2
-helicopter;B1
-hell;B2
+frighten,
+frightened,
+frightening,
+frog,
+from,
+front,
+frozen,
+fruit,
+fry,
+fuel,,B2
+full,
+fully,
+fun,,A2
+function,,B2
+fund,
+fundamental,
+funding,
+funny,
+fur,
+furniture,
+further,,,
+furthermore,
+future,,A2
+gain,
+gallery,
+game,
+gang,
+gap,
+garage,
+garden,
+gas,
+gate,
+gather,
+general,
+generally,
+generate,
+generation,
+generous,
+genre,
+gentle,
+gentleman,
+geography,
+get,
+ghost,
+giant,
+gift,
+girl,
+girlfriend,
+hear,
+hearing,
+heart,
+heat,
+heating,
+heaven,
+heavily,
+heavy,
+heel,
+height,
+helicopter,
+hell,
 hello exclam./n. A1
-help;A1
-helpful;A2
+help,
+helpful,
 
-напугать;B1
-испуганный;B1
-пугающий;B1
-лягушка;A2
+напугать,
+испуганный,
+пугающий,
+лягушка,
 из преп. A1
-переднее;A1
-замороженный;B1
-плод;A1
-Жарить;B1
+переднее,
+замороженный,
+плод,
+Жарить,
 топливо н. B1, версия B2
-полный;A1
-полностью;B2
-весело;A1,A2
-функция;B1, версия B2
+полный,
+полностью,
+весело,,A2
+функция,, версия B2
 фонд;В2
-фундаментальный;B2
-финансирование;B2
-смешной;A1
-мех;B1
-мебель;A2
-далее;A2,B1
-кроме того;B2
-будущее;A1,A2
-усиление;B2
-галерея;A2
-игра;A1
-банда;B2
-зазор;A2
+фундаментальный,
+финансирование,
+смешной,
+мех,
+мебель,
+далее,,B1
+кроме того,
+будущее,,A2
+усиление,
+галерея,
+игра,
+банда,
+зазор,
 гараж н. B1
-сад;A1
+сад,
 газ н. A2
-ворота;A2
-собрать;B1
-общий;A2
-в общем;B1
-генерировать;B2
-поколение;B1
-щедрый;B1
-жанр;B2
-нежный;B1
+ворота,
+собрать,
+общий,
+в общем,
+генерировать,
+поколение,
+щедрый,
+жанр,
+нежный,
 джентльмен н. B1
-география;A1
-получить;A1
-призрак;B1
-гигантский;B1
+география,
+получить,
+призрак,
+гигантский,
 подарок н. A2
 девушка н. A1
 подруга н. A1
-слышать;A1
-слыша;B2
-сердце;A2
-тепло;A2
-отопление;B1
-небеса;B2
-сильно;B1
-тяжелый;A2
-каблук;B2
-высота;A2
+слышать,
+слыша,
+сердце,
+тепло,
+отопление,
+небеса,
+сильно,
+тяжелый,
+каблук,
+высота,
 вертолет н. B1
 черт возьми B2
 привет восклицательный. / н. A1
-помощь;A1
-полезный;A2
+помощь,
+полезный,
 
-grandmother;A1
-grandparent;A1
-grant;B2
-grass;A2
-grateful;B1
-great;A1
-green;A1
-greet;A2
-grey;A1
-ground;A2
-group;A1
-grow;A1
-growth;B1
-guarantee;B2
-guard;B1
-guess;A1
-guest;A2
-guide;A2
-guilty;B1
-guitar;A1
-gun;A2
-guy;A2
-gym;A1
-habit;A2
-hair;A1
-half det./pron. A1,;A2
-hall;A2
-hand;A1,B1
-handle;B2
-hang;B1
-happen;A1
-happily;A2
-happiness;B1
-happy;A1
-hard;;A1
-hardly;B1
-harm;B2
-harmful;B2
-hat;A1
-hate;A1,B1
-have;A1, auxiliary;A2
-have to modal;A1
+grandmother,
+grandparent,
+grant,
+grass,
+grateful,
+great,
+green,
+greet,
+grey,
+ground,
+group,
+grow,
+growth,
+guarantee,
+guard,
+guess,
+guest,
+guide,
+guilty,
+guitar,
+gun,
+guy,
+gym,
+habit,
+hair,
+half det./pron. A1,,
+hall,
+hand,,B1
+handle,
+hang,
+happen,
+happily,
+happiness,
+happy,
+hard;,
+hardly,
+harm,
+harmful,
+hat,
+hate,,B1
+have,, auxiliary,
+have to modal,
 he pron. A1
-head;A1,B1
-headache;A2
-headline;B1
-health;A1
-healthy;A1
-hurry;B1
-hurt;A2,B2
-husband;A1
+head,,B1
+headache,
+headline,
+health,
+healthy,
+hurry,
+hurt,,B2
+husband,
 I pron. A1
-ice;A1
-ice cream;A1
-idea;A1
-ideal;A2,B2
-identify;A2
-identity;B1
+ice,
+ice cream,
+idea,
+ideal,,B2
+identify,
+identity,
 if conj. A1
-ignore;B1
-ill;A2
-illegal;B1
-illness;A2
+ignore,
+ill,
+illegal,
+illness,
 
 бабушка н. A1
-бабушка и дедушка;A1
-грант;B2
-трава;A2
-благодарный;B1
-великий;A1
-зеленый;A1
-приветствовать;A2
-серый;A1
-земля;A2
-группа;A1
-расти;A1
-рост;B1
-гарантия;B2
-охранник;B1
-угадай;A1
-гость;A2
-руководство;A2
-виновный;B1
-гитара;A1
-пистолет;A2
+бабушка и дедушка,
+грант,
+трава,
+благодарный,
+великий,
+зеленый,
+приветствовать,
+серый,
+земля,
+группа,
+расти,
+рост,
+гарантия,
+охранник,
+угадай,
+гость,
+руководство,
+виновный,
+гитара,
+пистолет,
 парень н. A2
-тренажерный зал;A1
-привычка;A2
-волосы;A1
+тренажерный зал,
+привычка,
+волосы,
 пол дет. / пр. A1,A2
-зал;A2
-рука;A1, версия B1
-ручка;B2
-повесить;B1
-случиться;A1
+зал,
+рука,, версия B1
+ручка,
+повесить,
+случиться,
 радостно посоветовал. A2
-счастье;B1
-счастливый;A1
+счастье,
+счастливый,
 жесткий прил.,A1
-вряд ли;B1
-вред;B2
-вредный;B2
-шляпа;A1
-ненавижу;A1,B1
-иметь;A1, в
-должны модальные;A1
+вряд ли,
+вред,
+вредный,
+шляпа,
+ненавижу,,B1
+иметь,, в
+должны модальные,
 он произн. A1
-глава;A1, версия B1
-головная боль;A2
-заголовок;B1
-здоровье;A1
-здоровый;A1
-спешите;B1
-больно;A2,B2
+глава,, версия B1
+головная боль,
+заголовок,
+здоровье,
+здоровый,
+спешите,
+больно,,B2
 муж н. A1
 Я произн. A1
 лед н. A1
 мороженое н. A1
-идея;A1
-идеальный;A2,B2
-идентифицировать;A2
-личность;B1
+идея,
+идеальный,,B2
+идентифицировать,
+личность,
 если конн. A1
-игнорировать;B1
-плохой;A2
-незаконный;B1
-болезнь;A2
+игнорировать,
+плохой,
+незаконный,
+болезнь,
 her pron., det. A1
-here;A1ее пр., дет. A1
-здесь;A1illustrate;B2
-illustration;B2проиллюстрировать;B2
+here,ее пр., дет. A1
+здесь,illustrate,
+illustration,проиллюстрировать,
 Иллюстрация № B2
 
-hero;A2
+hero,
 hers pron. A2
 herself pron. A2
-hesitate;B2
+hesitate,
 hey exclam. A1
 hi exclam. A1
-hide;A2
-high;A1,;A2,B2
-highlight;B1
-highly;B1
-hill;A2
+hide,
+high,,,,B2
+highlight,
+highly,
+hill,
 him pron. A1
 himself pron. A2
-hire;B1,B2
+hire,,B2
 his det. A1, pron. A2
-historic;B1
-historical;B1
-history;A1
-hit;A2
-hobby;A1
-hockey;A2
-hold;A2,B2
-hole;A2
-holiday;A1
-hollow;B2
-holy;B2
-home;A1,A2
-homework;A1
-honest;B1
-honour;B2
-hope;A1,A2
-horrible;B1
-horror;B1
-horse;A1
-hospital;A1
-host;B1,B2
-hot;A1
-hotel;A1
-hour;A1
-house;A1,B2
-household;B2
-housing;B2
-how;A1
-however;A1
-huge;A2
-human;A2
-humorous;B2
-humour;B2
+historic,
+historical,
+history,
+hit,
+hobby,
+hockey,
+hold,,B2
+hole,
+holiday,
+hollow,
+holy,
+home,,A2
+homework,
+honest,
+honour,
+hope,,A2
+horrible,
+horror,
+horse,
+hospital,
+host,,B2
+hot,
+hotel,
+hour,
+house,,B2
+household,
+housing,
+how,
+however,
+huge,
+human,
+humorous,
+humour,
 hundred number A1
-hungry;A1
-hunt;B1,B2
-hunting;B2
-hurricane;B1
+hungry,
+hunt,,B2
+hunting,
+hurricane,
 
-герой;A2
+герой,
 ее прон. A2
 сама прн. A2
 колебаться против B2
 привет, восклицай. A1
 привет восклицать. A1
-скрыть;A2
-высокий;A1,
-выделить;B1
+скрыть,
+высокий,,
+выделить,
 очень рекоменд. B1
-холм;A2
+холм,
 его прон. A1
 сам прон. A2
 Прокат т. Б1, н. B2
 его дет. А1, пр. A2
-исторический;B1
-исторический;B1
-история;A1
-ударил;A2
+исторический,
+исторический,
+история,
+ударил,
 хобBn. A1
 хоккей н. A2
-придерживаться;A2,B2
-отверстие;A2
-праздник;A1
-полый;B2
-святой;B2
-дом;A1,A2
-домашнее задание;A1
-честный;B1
-честь;B2
-Надежда;A1,A2
-ужасный;B1
+придерживаться,,B2
+отверстие,
+праздник,
+полый,
+святой,
+дом,,A2
+домашнее задание,
+честный,
+честь,
+Надежда,,A2
+ужасный,
 ужас н. B1
-лошадь;A1
-больница;A1
-хост;B1, версия B2
-горячий;A1
-отель;A1
-час;A1
-дом;A1,B2
-бытовой;B2
-корпус;B2
-как;A1
-однако;A1
-огромный;A2
-человеческий;A2
-юмористический;B2
+лошадь,
+больница,
+хост,, версия B2
+горячий,
+отель,
+час,
+дом,,B2
+бытовой,
+корпус,
+как,
+однако,
+огромный,
+человеческий,
+юмористический,
 юмор н. B2
 сотка номер А1
-голодный;A1
-охота;B1,B2
-охота;B2
+голодный,
+охота,,B2
+охота,
 ураган н. B1
 
-image;A2
-imaginary;B1
-imagination;B2
-imagine;A1
-immediate;B1
-immediately;A2
-immigrant;B1
-impact;B1
-impatient;B2
-imply;B2
-import;B1
-importance;B1
-important;A1
-impose;B2
-impossible;A2
-impress;B2
-impressed;B2
-impression;B1
-impressive;B1
-improve;A1
-improvement;B1
-in;A1
-inch;B2
-incident;B2
-include;A1
-included;A2
-including;A2
-income;B2
-increase;A2
-increasingly;B2
-incredible;A2
-incredibly;B1
-indeed;B1
-independent;A2
-indicate;B1
-indirect;B1
-individual;A2
-indoor;B1
-indoors;B1
-industrial;B2
-industry;A2
-infection;B2
-influence;B1
-inform;B2
-informal;A2
-information;A1
-ingredient;B1
-initial;B2
-initially;B2
-initiative;B2
-injure;B1
-injured;B1
-injury;A2
+image,
+imaginary,
+imagination,
+imagine,
+immediate,
+immediately,
+immigrant,
+impact,
+impatient,
+imply,
+import,
+importance,
+important,
+impose,
+impossible,
+impress,
+impressed,
+impression,
+impressive,
+improve,
+improvement,
+in,
+inch,
+incident,
+include,
+included,
+including,
+income,
+increase,
+increasingly,
+incredible,
+incredibly,
+indeed,
+independent,
+indicate,
+indirect,
+individual,
+indoor,
+indoors,
+industrial,
+industry,
+infection,
+influence,
+inform,
+informal,
+information,
+ingredient,
+initial,
+initially,
+initiative,
+injure,
+injured,
+injury,
 
-изображение;A2
-мнимый;B1
-воображение;B2
-представьте;A1
-немедленный;B1
+изображение,
+мнимый,
+воображение,
+представьте,
+немедленный,
 немедленно посоветовать.
-иммигрант;B1
-удар;B1
-нетерпеливый;B2
-подразумевают;B2
+иммигрант,
+удар,
+нетерпеливый,
+подразумевают,
 импорт н.,B1
-важность;B1
-важный;A1
-наложить;B2
-невозможно;A2
+важность,
+важный,
+наложить,
+невозможно,
 впечатлить против B2
-впечатлен;B2
-впечатление;B1
-впечатляющий;B1
-улучшить;A1
-улучшение;B1
+впечатлен,
+впечатление,
+впечатляющий,
+улучшить,
+улучшение,
 в преп.,A1
-дюйм;B2
-инцидент;B2
-включить;A1
-включен;A2
+дюйм,
+инцидент,
+включить,
+включен,
 включая преп. A2
-доход;B2
-увеличить;A2
-все;B2
-невероятный;A2
-невероятно;B1
-действительно;B1
-независимый;A2
-указать;B1
-косвенный;B1
+доход,
+увеличить,
+все,
+невероятный,
+невероятно,
+действительно,
+независимый,
+указать,
+косвенный,
 индивидуальный
-внутренний;B1
-в помещении;B1
-промышленный;B2
-промышленность;A2
-инфекция;B2
-влияние;B1
-сообщить;B2
-неформальный;A2
-информация;A1
-ингредиент;B1
-начальный;B2
-изначально;B2
-инициатива;B2
-травмировать;B1
-травмированный;B1
-травма;A2
+внутренний,
+в помещении,
+промышленный,
+промышленность,
+инфекция,
+влияние,
+сообщить,
+неформальный,
+информация,
+ингредиент,
+начальный,
+изначально,
+инициатива,
+травмировать,
+травмированный,
+травма,
 
-inner;B2
-innocent;B1
-insect;A2
+inner,
+innocent,
+insect,
 inside;,A2
-insight;B2
-insist;B2
-inspire;B2
-install;B2
-instance;B2
-instead;A2
-institute;B2
-institution;B2
-instruction;A2
-instructor;A2
-instrument;A2
-insurance;B2
-intelligence;B1
-intelligent;A2
-intend;B1
-intended;B2
-intense;B2
-intention;B1
-interest;A1
-interested;A1
-interesting;A1
-internal;B2
-international;A2
-internet;A1
-interpret;B2
-interrupt;B2
-interview;A1
-into;A1
-introduce;A1
-introduction;A2
-invent;A2
-invention;A2
-invest;B1
-investigate;B1
-investigation;B2
-investment;B2
-invitation;A2
-invite;A2
-involve;A2
-involved;B1
-iron;B1
-island;A1
-issue;B1,B2
-IT;B1
+insight,
+insist,
+inspire,
+install,
+instance,
+instead,
+institute,
+institution,
+instruction,
+instructor,
+instrument,
+insurance,
+intelligence,
+intelligent,
+intend,
+intended,
+intense,
+intention,
+interest,
+interested,
+interesting,
+internal,
+international,
+internet,
+interpret,
+interrupt,
+interview,
+into,
+introduce,
+introduction,
+invent,
+invention,
+invest,
+investigate,
+investigation,
+investment,
+invitation,
+invite,
+involve,
+involved,
+iron,
+island,
+issue,,B2
+IT,
 it pron. A1
-item;A2
+item,
 its det. A1
 itself pron. A2
-jacket;A1
-jam;A2
-January;A1
-jazz;A2
-jeans;A1
-jewellery;A2
-job;A1
-join;A1
-joke;A2
-journal;B1
-journalist;A2
-journey;A1
-joy;B2
-judge;B1
+jacket,
+jam,
+January,
+jazz,
+jeans,
+jewellery,
+job,
+join,
+joke,
+journal,
+journalist,
+journey,
+joy,
+judge,
 
-внутренний;B2
-невинный;B1
-насекомое;A2
+внутренний,
+невинный,
+насекомое,
 внутри преп., нареч., сущ.,A2
-понимание;B2
+понимание,
 настаивать на против B2
-вдохновлять;B2
-установить;B2
-экземпляр;B2
-вместо;A2
+вдохновлять,
+установить,
+экземпляр,
+вместо,
 институт н. B2
-учреждение;B2
-инструкция;A2
+учреждение,
+инструкция,
 инструктор Н. A2
-инструмент;A2
-страхование;B2
-интеллект;B1
-интеллектуальный;A2
+инструмент,
+страхование,
+интеллект,
+интеллектуальный,
 намерены против B1
-предназначенный;B2
-интенсивный;B2
-намерение;B1
-проценты;A1
-заинтересованный;A1
-интересный;A1
-внутренний;B2
-международный;A2
-интернет;A1
-толковать;B2
-прерывание;B2
-интервью;A1
+предназначенный,
+интенсивный,
+намерение,
+проценты,
+заинтересованный,
+интересный,
+внутренний,
+международный,
+интернет,
+толковать,
+прерывание,
+интервью,
 в подготовку. A1
-представить;A1
-введение;A2
+представить,
+введение,
 изобретать против А2
-изобретение;A2
-инвестировать;B1
-расследовать;B1
-расследование;B2
-инвестиции;B2
-приглашение;A2
-пригласить;A2
-включают;A2
-вовлеченный;B1
-утюг;B1
-остров;A1
-выпуск;B1, версия B2
-IT;B1
+изобретение,
+инвестировать,
+расследовать,
+расследование,
+инвестиции,
+приглашение,
+пригласить,
+включают,
+вовлеченный,
+утюг,
+остров,
+выпуск,, версия B2
+IT,
 это прон. A1
 п. A2
 его дет. A1
 сам прон. A2
-куртка;A1
+куртка,
 варенье н. A2
 Январь н. A1
-джаз;A2
-джинсы;A1
-ювелирные изделия;A2
-работа;A1
-присоединиться к;A1
-шутка;A2
-журнал;B1
+джаз,
+джинсы,
+ювелирные изделия,
+работа,
+присоединиться к,
+шутка,
+журнал,
 журналист Н. A2
-путешествие;A1
-радость;B2
-судья;B1
+путешествие,
+радость,
+судья,
 
-June;A1
-junior;B2
-just;A1
-justice;B2
-justify;B2
-keen;B1
-keep;A1
-key;A1,B1
-keyboard;B1
-kick;B1
-kid;A2
-kill;A2
-killing;B1
-kilometre;A1
-kind (type);A1
-kind (caring);B1
-king;A2
-kiss;B1
-kitchen;A1
-knee;A2
-knife;A2
-knock;A2,B1
-know;A1
-knowledge;A2
-lab;A2
-label;B1
-laboratory;B1
-labour;B2
-lack;B1
-lady;A2
-lake;A2
-lamp;A2
-land;A1,A2
-landscape;B2
-language;A1
-laptop;A2
-large;A1
-largely;B2
+June,
+junior,
+just,
+justice,
+justify,
+keen,
+keep,
+key,,B1
+keyboard,
+kick,
+kid,
+kill,
+killing,
+kilometre,
+kind (type),
+kind (caring),
+king,
+kiss,
+kitchen,
+knee,
+knife,
+knock,,B1
+know,
+knowledge,
+lab,
+label,
+laboratory,
+labour,
+lack,
+lady,
+lake,
+lamp,
+land,,A2
+landscape,
+language,
+laptop,
+large,
+largely,
 last1 (final) det. A1,;,A2
-last1 (taking time);A2
-late;;A1
-later;A1,A2
-latest;B1,B2
-laugh;A1
-laughter;A2
-launch;B2
-law;A2
-lawyer;A2
-lay;B1
-layer;B1
-lazy;A2
-lead1;A2,B1
-leader;A2
-leadership;B2
-leading;B1
-leaf;B1
-league;B2
-lean;B2
-learn;A1
-learning;A2
-least det./pron.,;A2
-leather;B1
-leave;A1,B2
-lecture;A2
+last1 (taking time),
+late;,
+later,,A2
+latest,,B2
+laugh,
+laughter,
+launch,
+law,
+lawyer,
+lay,
+layer,
+lazy,
+lead1,,B1
+leader,
+leadership,
+leading,
+leaf,
+league,
+lean,
+learn,
+learning,
+least det./pron.,,
+leather,
+leave,,B2
+lecture,
 left;;,A1
-leg;A1
+leg,
 
 Июнь н. A1
-младший;B2
-просто;A1
-правосудие;B2
-оправдать;B2
-острый;B1
-сохранить;A1
-ключ;A1, версия B1
-клавиатура;B1
-пинок;B1
-малыш;A2
-убить;A2
+младший,
+просто,
+правосудие,
+оправдать,
+острый,
+сохранить,
+ключ,, версия B1
+клавиатура,
+пинок,
+малыш,
+убить,
 убийство н. B1
-километр;A1
-вид (тип);A1
-добрый (заботливый);B1
-король;A2
-поцелуй;B1
-кухня;A1
-колено;A2
-нож;A2
-стук;A2,B1
-знать;A1
-знания;A2
-лаборатория;A2
-этикетка;B1
-лаборатория;B1
-труд;B2
-Отсутствие;B1
+километр,
+вид (тип),
+добрый (заботливый),
+король,
+поцелуй,
+кухня,
+колено,
+нож,
+стук,,B1
+знать,
+знания,
+лаборатория,
+этикетка,
+лаборатория,
+труд,
+Отсутствие,
 леди н. A2
-озеро;A2
-лампа;A2
-земля;A1,A2
-пейзаж;B2
-язык;A1
-ноутбук;A2
-большой;A1
-в основном;B2
+озеро,
+лампа,
+земля,,A2
+пейзаж,
+язык,
+ноутбук,
+большой,
+в основном,
 last1 (final)
-last1 (требуется время);A2
+last1 (требуется время),
 поздно прил.,A1
-позже;A1,A2
+позже,,A2
 последний;В1,B2
-смеяться;A1
-смех;A2
-запуск;B2
+смеяться,
+смех,
+запуск,
 лужайка. A2
 юрист н. A2
-Lay;B1
-слой;B1
-ленивый;A2
-lead1;A2,B1
-лидер;A2
-руководство;B2
-ведущий;B1
-лист;B1
-лига;B2
-бережливое;B2
-узнать;A1
-обучение;A2
+Lay,
+слой,
+ленивый,
+lead1,,B1
+лидер,
+руководство,
+ведущий,
+лист,
+лига,
+бережливое,
+узнать,
+обучение,
 минимум дет. / пр.,A2
-кожа;B1
-оставить;A1,B2
+кожа,
+оставить,,B2
 лекция;А2
 левый прил., нареч., сущ. A1
-нога;A1
+нога,
 
-judgement;B2
-juice;A1
-July;A1
-jump;A2
-length;B1
-less det./pron.,;A2
-lesson;A1
-let;A1
-letter;A1
-level;A2,B1,B2
-library;A1
-licence;B2
-lie1;A1
-lie2 (tell a lie);B1
-life;A1
-lifestyle;A2
-lift;A2
+judgement,решение
+juice,
+July,
+jump,
+length,
+less det./pron.,,
+lesson,
+let,
+letter,
+level,,B1,B2
+library,
+licence,
+lie1,
+lie2 (tell a lie),
+life,
+lifestyle,
+lift,
 light (from the sun/a lamp)
 adj. A1,A2
-light (not heavy);A2
-like (similar);A1
-like (find sb/sth pleasant);A1,
+light (not heavy),
+like (similar),
+like (find sb/sth pleasant),,
 n. B1
-likely;A2
-limit;B1
-limited;B2
-line;A1,B2
-link;A2
-lion;A1
-lip;B1
-liquid;B1
-list;A1
-listen;A1
-listener;A2
-literature;B1
-little; det./pron. A1,;A2
-live1;A1
-live2;;B1
-lively;B2
-living;B1
-load;B2
-loan;B2
-local;A1,B1
-locate;B1
-located;B1
-location;B1
-lock;A2
-logical;B2
-lonely;B1
-long1;;A1
-long-term;;B2
-look;A1,A2
-loose;B2
-lord;B2
-lorry;A2
-lose;A1
-loss;B1
-lost;A2
-lot pron., det.,;A1
-loud;;A2
-loudly;A2
-love;A1
-lovely;A2
-low;;A2,B2
+likely,
+limit,
+limited,
+line,,B2
+link,
+lion,
+lip,
+liquid,
+list,
+listen,
+listener,
+literature,
+little; det./pron. A1,,
+live1,
+live2;,
+lively,
+living,
+load,
+loan,
+local,,B1
+locate,
+located,
+location,
+lock,
+logical,
+lonely,
+long1;,
+long-term;,
+look,,A2
+loose,
+lord,
+lorry,
+lose,
+loss,
+lost,
+lot pron., det.,,
+loud;,
+loudly,
+love,
+lovely,
+low;,,B2
 
-решение;B2
+,
 сок н. A1
 Июль н. A1
-прыжок;A2
-длина;B1
+прыжок,
+длина,
 меньше дет. / пр.,A2
-урок;A1
-пусть;A1
-буква;A1
-уровень;A2,B1, версия B2
-библиотека;A1
-лицензия;B2
-lie1;A1
-lie2 (солгать);B1
-жизнь;A1
-образ жизни;A2
+урок,
+пусть,
+буква,
+уровень,,B1, версия B2
+библиотека,
+лицензия,
+lie1,
+lie2 (солгать),
+жизнь,
+образ жизни,
 лифт в., н. A2
 свет (от солнышка / лампы)
 прил. A1,A2
-легкий (не тяжелый);A2
+легкий (не тяжелый),
 как (аналогичный) преп. A1
 нравится
 п. B1
-вероятно;A2
-предел;B1
-ограниченный;B2
+вероятно,
+предел,
+ограниченный,
 белье. A1,B2
-ссылка;A2
-лев;A1
-губа;B1
-жидкость;B1
-список;A1
-слушайте;A1
+ссылка,
+лев,
+губа,
+жидкость,
+список,
+слушайте,
 слушатель н. A2
-литература;B1
+литература,
 малый
 live1 против A1
 live2 прил.,B1
-живой;B2
-живой;B1
-нагрузка;B2
-заем;B2
+живой,
+живой,
+нагрузка,
+заем,
 местный;А1,B1
-найдите;B1
-расположен;B1
-расположение;B1
-замок;A2
-логический;B2
-одинокий;B1
+найдите,
+расположен,
+расположение,
+замок,
+логический,
+одинокий,
 long1 прил.,A1
 долгосрочное прил.,B2
-см.;A1,A2
-свободный;B2
+см.,,A2
+свободный,
 лорд н. B2
-грузовик;A2
+грузовик,
 проиграть против A1
-потеря;B1
-потерянный;A2
+потеря,
+потерянный,
 много пр., дет.,A1
 громкий прил.,A2
 громко нарекать. A2
 любовь;А1
-прекрасный;A2
+прекрасный,
 низкий прил.,A2,B2
 
-legal;B1
-leisure;B1
-lemon;A2
-lend;A2
-mail;A2
-main;A1
-mainly;B1
-maintain;B2
-major;A2
-majority;B2
-make;A1,B2
-male;A2
-mall;B1
-man;A1
-manage;A2
-management;B1
-manager;A2
-manner;A2
+legal,
+leisure,
+lemon,
+lend,
+mail,
+main,
+mainly,
+maintain,
+major,
+majority,
+make,,B2
+male,
+mall,
+man,
+manage,
+management,
+manager,
+manner,
 many det./pron. A1
-map;A1,B2
-March;A1
-mark;A2
-market;A1,B1
-marketing;B1
-marriage;B1
-married;A1
-marry;A2
-mass;B2
-massive;B2
-master;B2
+map,,B2
+March,
+mark,
+market,,B1
+marketing,
+marriage,
+married,
+marry,
+mass,
+massive,
+master,
 match (contest/correspond)
 v. A1
-matching;B2
-material;A2,B2
-mathematics;A2
-maths;A2
-matter;A2
-maximum;B2
-May;A1
-may modal;A2
-maybe;A1
+matching,
+material,,B2
+mathematics,
+maths,
+matter,
+maximum,
+May,
+may modal,
+maybe,
 me pron. A1
-meal;A1
-mean;A1
-meaning;A1
-means;B2
-meanwhile;B1
-measure;B1
-measurement;B2
-meat;A1
-media;A2
-medical;A2
-medicine;A2
-medium;B1,B2
-meet;A1
-meeting;A1
-melt;B2
-member;A1
-memory;A2
-mental;B1
-mention;A2,B1
-menu;A1
-mess;B1
-message;A1
+meal,
+mean,
+meaning,
+means,
+meanwhile,
+measure,
+measurement,
+meat,
+media,
+medical,
+medicine,
+medium,,B2
+meet,
+meeting,
+melt,
+member,
+memory,
+mental,
+mention,,B1
+menu,
+mess,
+message,
 
-юридический;B1
-досуг;B1
+юридический,
+досуг,
 лимон н. A2
-одолжить;A2
-mail;A2
-основной;A1
-в основном;B1
-поддерживать;B2
-мажорный;A2
-большинство;B2
-сделать;A1,B2
-мужской;A2
-торговый центр;B1
-человек;A1
-управлять;A2
-управление;B1
-менеджер;A2
-манера;A2
+одолжить,
+mail,
+основной,
+в основном,
+поддерживать,
+мажорный,
+большинство,
+сделать,,B2
+мужской,
+торговый центр,
+человек,
+управлять,
+управление,
+менеджер,
+манера,
 много дет./прон. A1
-карта;A1,B2
-Марта;A1
-марка;A2
-рынок;A1, версия B1
-маркетинг;B1
-брак;B1
-женат;A1
-жениться;A2
-масса;B2
-массивный;B2
+карта,,B2
+Марта,
+марка,
+рынок,, версия B1
+маркетинг,
+брак,
+женат,
+жениться,
+масса,
+массивный,
 мастер;В2
 матч
 v. A1
-соответствующий;B2
-материал;A2,B2
-математика;A2
-математика;A2
+соответствующий,
+материал,,B2
+математика,
+математика,
 п., т. A2
-максимальное;B2
-May;A1
-может модально;A2
+максимальное,
+May,
+может модально,
 может быть,A1
 меня прон. A1
-еда;A1
-среднее;A1
-значение;A1
-означает;B2
-тем временем;B1
-мера;B1
-измерение;B2
+еда,
+среднее,
+значение,
+означает,
+тем временем,
+мера,
+измерение,
 мясо н. A1
-СМИ;A2
-медицинский;A2
-медицина;A2
+СМИ,
+медицинский,
+медицина,
 средний;В1,B2
-встретить;A1
-встреча;A1
-расплавить;B2
-член;A1
-память;A2
-ментальный;B1
-упомянуть;A2,B1
-меню;A1
-беспорядок;B1
-сообщение;A1
+встретить,
+встреча,
+расплавить,
+член,
+память,
+ментальный,
+упомянуть,,B1
+меню,
+беспорядок,
+сообщение,
 
-lower;B2
-luck;A2
-lucky;A2
-lunch;A1
-lung;B2
-luxury;B1
-machine;A1
-mad;B1
-magazine;A1
-magic;B1
+lower,
+luck,
+lucky,
+lunch,
+lung,
+luxury,
+machine,
+mad,
+magazine,
+magic,
 million number A1
-mind;A2
+mind,
 mine (belongs to me) pron. A2
-mine (hole in the ground);B1
-mineral;B2
-minimum;B2
-minister;B2
-minor;B2
-minority;B2
-minute1;A1
-mirror;A2
-miss;A1
-missing;A2
-mission;B2
-mistake;A1,B2
-mix;B1
-mixed;B2
-mixture;B1
-mobile;A2
-model;A1,B2
-modern;A1
-modify;B2
-moment;A1
-Monday;A1
-money;A1
-monitor;B2
-monkey;A2
-month;A1
-mood;B1
-moon;A2
-moral;B2
-more det./pron.,;A1
-morning;A1
-most det./pron.,;A1
-mostly;A2
-mother;A1
-motor;B2
-motorcycle;A2
-mount;B2
-mountain;A1
-mouse;A1
-mouth;A1
-move;A1,B1
-movement;A2
-movie;A1
-much det./pron.,;A1
-mud;B1
-multiple;B2
-multiply;B2
-mum;A1
-murder;B1
-muscle;B1
-museum;A1
+mine (hole in the ground),
+mineral,
+minimum,
+minister,
+minor,
+minority,
+minute1,
+mirror,
+miss,
+missing,
+mission,
+mistake,,B2
+mix,
+mixed,
+mixture,
+mobile,
+model,,B2
+modern,
+modify,
+moment,
+Monday,
+money,
+monitor,
+monkey,
+month,
+mood,
+moon,
+moral,
+more det./pron.,,
+morning,
+most det./pron.,,
+mostly,
+mother,
+motor,
+motorcycle,
+mount,
+mountain,
+mouse,
+mouth,
+move,,B1
+movement,
+movie,
+much det./pron.,,
+mud,
+multiple,
+multiply,
+mum,
+murder,
+muscle,
+museum,
 
-нижняя;B2
-удачи;A2
-счастливый;A2
-обед;A1
-легкое;B2
-роскошь;B1
-машина;A1
-безумный;B1
-журнал;A1
-magic;B1
+нижняя,
+удачи,
+счастливый,
+обед,
+легкое,
+роскошь,
+машина,
+безумный,
+журнал,
+magic,
 миллион номер A1
-ум;A2
+ум,
 мой (принадлежит мне) A2
 шахта (яма в земле) н. B1
-минеральный;B2
-минимальный;B2
+минеральный,
+минимальный,
 министр Н. B2
-минор;B2
-меньшинство;B2
-минута1;A1
-зеркало;A2
-пропустить;A1
-отсутствует;A2
-миссия;B2
-ошибка;A1,B2
-смесь;B1
-смешанный;B2
-смесь;B1
-мобильный;A2
-модель;A1,B2
-современный;A1
-изменить;B2
-момент;A1
-Понедельник;A1
-деньги;A1
+минор,
+меньшинство,
+минута1,
+зеркало,
+пропустить,
+отсутствует,
+миссия,
+ошибка,,B2
+смесь,
+смешанный,
+смесь,
+мобильный,
+модель,,B2
+современный,
+изменить,
+момент,
+Понедельник,
+деньги,
 Монитор;В2
-обезьяна;A2
-месяц;A1
-настроение;B1
-луна;A2
-моральный;B2
+обезьяна,
+месяц,
+настроение,
+луна,
+моральный,
 подробнее дет. / пр.,A1
 утро н. A1
 наиболее дет. / пр.,A1
-в основном;A2
-мать;A1
-мотор;B2
-мотоцикл;A2
-крепление;B2
-гора;A1
-мышь;A1
-рот;A1
-переместить;A1,B1
-движение;A2
-фильм;A1
+в основном,
+мать,
+мотор,
+мотоцикл,
+крепление,
+гора,
+мышь,
+рот,
+переместить,,B1
+движение,
+фильм,
 сильно дет. / пр.,A1
-грязь;B1
-множественный;B2
-умножить;B2
+грязь,
+множественный,
+умножить,
 мама н. A1
-убийство;B1
-мышца;B1
-музей;A1
+убийство,
+мышца,
+музей,
 
-metal;A2
-method;A2
-metre;A1
-middle;A2
-midnight;A1
-might modal;A2
-mild;B1
-mile;A1
-military;B2
-milk;A1
-nature;A2
-near;;A1
-nearly;A2
-neat;B2
-necessarily;B1
-necessary;A2
-neck;A2
-need;A1,A2, modal;B1
-needle;B1
-negative;A1,B2
-neighbour;A1
-neighbourhood;B1
-neither det./pron. A2,;B1
-nerve;B2
-nervous;A2
-net;B1
-network;A2
-never;A1
-nevertheless;B2
-new;A1
-news;A1
-newspaper;A1
-next;;A1,B1
-next to;A1
-nice;A1
-night;A1
-nightmare;B2
-nine number A1
-nineteen number A1
-ninety number A1
-no exclam., det. A1
-no one pron. A1
-nobody pron. A1
-noise;A2
-noisy;A2
-none pron. A2
-nor conj./adv. B1
-normal;A2,B1
-normally;A2
-north;;A1
-northern;B1
-nose;A1
-not;A1
-note;A1,B1
-nothing pron. A1
-notice;A2
-notion;B2
-novel;A2
-November;A1
-now;A1, conj. B1
-nowhere;A2
-nuclear;B1
-number;A1,A2
+metal,металл
+method,метод
+metre,метр
+middle,средний
+midnight,полночь
+might,может
+mild,мягкий
+mile,миля
+military,военный
+milk,молоко
+nature,природа
+near,рядом(прил.)
+nearly,рядом(нареч.)
+neat,аккуратный
+necessarily,обязательно
+necessary,необходимый
+neck,шея
+need,нужно
+needle,игла
+negative,негативный
+neighbour,сосед
+neighbourhood,окрестности
+neither,ни-...
+nerve,нерв
+nervous,нервный
+net,сеть(сокр.)
+network,сеть
+never,никогда
+nevertheless,тем не менее
+new,новый
+news,новости
+newspaper,газета
+next,следующий
+next to,рядом с
+nice,хороший
+night,ночь
+nightmare,кошмар
+nine,девять
+nineteen,девятнадцать
+ninety,девяносто
+no,без(восклицания)
+no one,никто не
+nobody,никто не
+noise,шум
+noisy,шумный
+none,нет
+nor,ни
+normal,нормальный
+normally,обычно
+north,север
+northern,северный
+nose,нос
+not,не
+note,записка
+nothing,ничего
+notice,уведомление
+notion,понятие
+novel,роман
+November,ноябрь
+now,теперь
+nowhere,нигде
+nuclear,ядерный
+number,номер
 
-металл;A2
-метод;A2
-метр;A1
-средний;A2
-полночь;A1
-может модально;A2
-мягкий;B1
-миля;A1
-военный;B2
-молоко н. A1
-природа;A2
-рядом преп., прил.,A1
-почти;A2
-аккуратный;B2
-обязательно нарек. B1
-необходимый;A2
-шея;A2
-нужно v
-игла;B1
-негативный;А1,B2
-сосед;A1
-окрестности;B1
-ни дет. / пр. A2,B1
-нерв;B2
-нервный;A2
-net;B1
-сеть;A2
-никогда не рекомендую. A1
-тем не менее;B2
-новый;A1
-новости;A1
-газета;A1
-следующий
-рядом с преп. A1
-хороший;A1
-ночь;A1
-кошмар;B2
-девять номер А1
-девятнадцать число А1
-девяносто номер A1
-без восклицания, дет. A1
-никто не прон. A1
-никто не прон. A1
-шум;A2
-шумный;A2
-нет прн. A2
-ни соедин. / адв. B1
-нормальный;A2,B1
-обычно;A2
-север прил.,A1
-северный;B1
-нос;A1
-не;A1
-не десять. A1, версия B1
-ничего прон. A1
-уведомление;A2
-понятие;B2
-Роман Н. A2
-Ноябрь н. A1
-теперь;A1, соедин. B1
-нигде;A2
-ядерный;B1
-номер;A1,A2
-
-music;A1
-musical;A2,B1
-musician;A2
-must modal;A1
+music,
+musical,,B1
+musician,
+must modal,
 my det. A1
 myself pron. A2
-mysterious;B2
-mystery;B1
-nail;B1
-name;A1
-narrative;B1
-narrow;A2,B2
-nation;B1
-national;A2,B2
-native;B1
-natural;A1
-naturally;B1
-October;A1
-odd;B1
-of;A1
-off;,;A1
-offence;B2
-offend;B2
-offensive;B2
-offer;A2
-office;A1
-officer;A2
-official;B1,B2
-often;A1
+mysterious,
+mystery,
+nail,
+name,
+narrative,
+narrow,,B2
+nation,
+national,,B2
+native,
+natural,
+naturally,
+October,
+odd,
+of,
+off;,,
+offence,
+offend,
+offensive,
+offer,
+office,
+officer,
+official,,B2
+often,
 oh exclam. A1
-oil;A2
-OK;A1
-old;A1
-old-fashioned;B1
-on;A1
-once;A1, conj. B1
+oil,
+OK,
+old,
+old-fashioned,
+on,
+once,, conj. B1
 one number/det., pron. A1
-onion;A1
-online;;A1
-only;;A1
-onto;A2
-open;A1
-opening;B2
-operate;B2
-operation;B1
-opinion;A1
-opponent;B2
-opportunity;A2
-oppose;B2
-opposed;B2
+onion,
+online;,
+only;,
+onto,
+open,
+opening,
+operate,
+operation,
+opinion,
+opponent,
+opportunity,
+oppose,
+opposed,
 opposite;;,A1
-opposition;B2
-option;A2
+opposition,
+option,
 or conj. A1
-orange;A1
-order;A1
-ordinary;A2
-organ;B2
-organization;A2
-музыка;A1
-numerous;B2
-музыкальный;A2,B1
-nurse;A1
+orange,
+order,
+ordinary,
+organ,
+organization,
+музыка,
+numerous,
+музыкальный,,B1
+nurse,
 
 музыкант н. A2
-nut;A2
-должен модальный;A1
-obey;B2
+nut,
+должен модальный,
+obey,
 мой дет. A1
-object;A1,B2
+object,,B2
 я прон. A2
-objective;B2
-таинственный;B2
-obligation;B2
-тайна;B1
-observation;B2
-гвоздь;B1
-observe;B2
+objective,
+таинственный,
+obligation,
+тайна,
+observation,
+гвоздь,
+observe,
 имя;А1
-obtain;B2
-повествовательный;B1
-obvious;B1
-узкий;A2,B2
-obviously;B1
-нация;B1
-occasion;B1
-национальный;A2,B2
-occasionally;B2
-родной;B1
-occur;B1
-естественный;A1
-ocean;A2
-естественно;B1
-o’clock;A1
-Октябрь;A1
-package;B1,B2
-нечетный;B1
-page;A1
+obtain,
+повествовательный,
+obvious,
+узкий,,B2
+obviously,
+нация,
+occasion,
+национальный,,B2
+occasionally,
+родной,
+occur,
+естественный,
+ocean,
+естественно,
+o’clock,
+Октябрь,
+package,,B2
+нечетный,
+page,
 преп. A1
-pain;A2
+pain,
 выкл. нареч., преп. A1
-painful;B1
-нарушение;B2
-paint;A1
-оскорбить;B2
-painter;A2
-оскорбительный;B2
-painting;A1
-предложение;A2
-pair;A1
-офис;A1
-palace;A2
+painful,
+нарушение,
+paint,
+оскорбить,
+painter,
+оскорбительный,
+painting,
+предложение,
+pair,
+офис,
+palace,
 офицер н. A2
-pale;B1
+pale,
 официальный;В1,B2
-pan;B1
-часто;A1
-panel;B2
+pan,
+часто,
+panel,
 ох восклицать. A1
-pants;A2
+pants,
 масло н. A2
-paper;A1
+paper,
 ОК воскл.,/ Адв. A1
-paragraph;A1
-старый;A1
-parent;A1
-старомодный;B1
-park;A1
+paragraph,
+старый,
+parent,
+старомодный,
+park,
 на преп.,A1
-parking;A2
-один раз;A1, соедин. B1
-parliament;B2
+parking,
+один раз,, соедин. B1
+parliament,
 одно число / дет., пр. A1
-part;A1
+part,
 лук н. A1
-participant;B2
+participant,
 онлайн прил.,A1
-participate;B1
+participate,
 только прил.,A1
-particular;A2
+particular,
 на преп. A2
-particularly;B1
+particularly,
 открытый прил.,A1
-partly;B2
-открытие;B2
-partner;A1
-работать;B2
-party;A1
-операция;B1
-pass;A2,B1
-мнение;A1
-passage;B2
-противник;B2
-passenger;A2
-возможность;A2
-passion;B1
-возражать против;B2
-passport;A1
-против;B2
-past;;A1,;A2
-напротив прил., нареч., преп., сущ. A1 path;B1
-оппозиция;B2
-patient;A2,B2
-вариант;A2
-pattern;A2
+partly,
+открытие,
+partner,
+работать,
+party,
+операция,
+pass,,B1
+мнение,
+passage,
+противник,
+passenger,
+возможность,
+passion,
+возражать против,
+passport,
+против,
+past;,,,
+напротив прил., нареч., преп., сущ. A1 path,
+оппозиция,
+patient,,B2
+вариант,
+pattern,
 или соедин. A1
-pay;A1,A2
-оранжевый;A1
-payment;B1
-заказ;A1
-peace;A2
-обыкновенный;A2
-peaceful;B1
-орган;B2
-pen;A1
-организация;A2
-pencil;A1
-многочисленные;B2
+pay,,A2
+оранжевый,
+payment,
+заказ,
+peace,
+обыкновенный,
+peaceful,
+орган,
+pen,
+организация,
+pencil,
+многочисленные,
 медсестра н. A1
-гайка;A2
-подчиняться;B2
-объект;A1,B2
+гайка,
+подчиняться,
+объект,,B2
 цель сущ.,B2
-обязательство;B2
-наблюдение;B2
-соблюдайте;B2
-получить;B2
-очевидный;B1
-очевидно;B1
-повод;B1
+обязательство,
+наблюдение,
+соблюдайте,
+получить,
+очевидный,
+очевидно,
+повод,
 иногда нарек. B2
-происходят;B1
-океан;A2
-час;A1
-пакет;B1, версия B2
+происходят,
+океан,
+час,
+пакет,, версия B2
 страница № A1
-боль;A2
-болезненный;B1
-краска;A1
+боль,
+болезненный,
+краска,
 художник н. A2
-картина;A1
-пара;A1
-дворец;A2
-бледный;B1
-кастрюля;B1
-панель;B2
-штаны;A2
-бумага;A1
+картина,
+пара,
+дворец,
+бледный,
+кастрюля,
+панель,
+штаны,
+бумага,
 п. A1
-родитель;A1
+родитель,
 парк в. А1
-парковка;A2
-парламент;B2
-часть;A1
-участник;B2
-участвовать;B1
+парковка,
+парламент,
+часть,
+участник,
+участвовать,
 прил. A2
-особенно;B1
-частично;B2
-партнер;A1
-партия;A1
-пройти;A2,B1
-проезд;B2
-пассажир;A2
-страсть;B1
+особенно,
+частично,
+партнер,
+партия,
+пройти,,B1
+проезд,
+пассажир,
+страсть,
 паспорт № A1
 прошлое
-путь;B1
-пациент;A2,B2
-образец;A2
-платить;A1,A2
-платеж;B1
-мир;A2
-мирный;B1
-ручка;A1
-карандаш;A1
+путь,
+пациент,,B2
+образец,
+платить,,A2
+платеж,
+мир,
+мирный,
+ручка,
+карандаш,
 
-organize;A2
-organized;B1
-organizer;B1
-origin;B2
-original;A2, n.B1
-originally;B1
-other;A1
-otherwise;B2
-ought modal;B1
+organize,
+organized,
+organizer,
+origin,
+original,, n.B1
+originally,
+other,
+otherwise,
+ought modal,
 our det. A1
 ours pron. B1
 ourselves pron. A2
 out;/prep. A1
-outcome;B2
-outdoor;B1
-outdoors;B1
-outer;B2
-outline;B2
-outside;A1
-oven;A2
-over;A1
-overall;;B2
-owe;B2
-own;A1,A2
-owner;A2
-pace;B2
-pack;A2,B1
-photo;A1
-photograph;A1,A2
-photographer;B1
-photography;B1
-phrase;A1
-physical;A2
-physics;A2
-piano;A1
-pick;A2,B2
-picture;A1,B2
-piece;A1
-pig;A1
-pile;B2
-pilot;A2
-pin;B1
-pink;A1
-pipe;B1
-pitch;B2
-place;A1,B1
-plain;B2
-plan;A1
-plane;A1
-planet;A2
-planning;B1
-plant;A1,A2
-plastic;A2
-plate;A2
-platform;A2
-play;A1
-player;A1
-pleasant;B1
+outcome,
+outdoor,
+outdoors,
+outer,
+outline,
+outside,
+oven,
+over,
+overall;,
+owe,
+own,,A2
+owner,
+pace,
+pack,,B1
+photo,
+photograph,,A2
+photographer,
+photography,
+phrase,
+physical,
+physics,
+piano,
+pick,,B2
+picture,,B2
+piece,
+pig,
+pile,
+pilot,
+pin,
+pink,
+pipe,
+pitch,
+place,,B1
+plain,
+plan,
+plane,
+planet,
+planning,
+plant,,A2
+plastic,
+plate,
+platform,
+play,
+player,
+pleasant,
 please exclam. A1,A2
-pleased;A2
+pleased,
 
-организовать;A2
-организованный;B1
-организатор;B1
-происхождение;B2
-оригинальный;A2, номер B1
-первоначально;B1
+организовать,
+организованный,
+организатор,
+происхождение,
+оригинальный,, номер B1
+первоначально,
 другие;/ пр. A1
-в противном случае;B2
-должен модальный;B1
+в противном случае,
+должен модальный,
 наш дет. A1
 наш прон. B1
 мы прон. A2
 out;/prep. A1
-исход;B2
-открытый;B1
-на открытом воздухе;B1
-внешний;B2
-наброски;B2
-вне;A1, преп., Сущ., Прил.
-духовка;A2
+исход,
+открытый,
+на открытом воздухе,
+внешний,
+наброски,
+вне,, преп., Сущ., Прил.
+духовка,
 за преп.,A1
 общий прил.,B2
 задолженность против B2
 собственный;/ прон. A1,A2
-владелец;A2
-темп;B2
-pack;A2,B1
-фото;A1
-фотография;A1,A2
+владелец,
+темп,
+pack,,B1
+фото,
+фотография,,A2
 фотограф н. B1
-фотография;B1
-фраза;A1
-физический;A2
-физика;A2
-фортепиано;A1
-выберите;A2,B2
-изображение;A1,B2
+фотография,
+фраза,
+физический,
+физика,
+фортепиано,
+выберите,,B2
+изображение,,B2
 шт. A1
 свинья н. A1
-свая;B2
-пилот;A2
+свая,
+пилот,
 пин пин,B1
-розовый;A1
-труба;B1
-поле;B2
-место;A1, версия B1
-простой;B2
+розовый,
+труба,
+поле,
+место,, версия B1
+простой,
 план;А1
-самолет;A1
-планета;A2
-планирование;B1
-завод;A1,A2
-пластик;A2
-плита;A2
-платформа;A2
-играть;A1
-игрок;A1
-приятный;B1
+самолет,
+планета,
+планирование,
+завод,,A2
+пластик,
+плита,
+платформа,
+играть,
+игрок,
+приятный,
 пожалуйста, воскликни. A1,A2
-довольный;A2
+довольный,
 
-penny;A2
-pension1;B2
-people;A1
-pepper;A1
-per;A2
-per cent;A2
-percentage;B1
-perfect;A1
-perfectly;B1
-perform;A2
-performance;B1
-perhaps;A2
-period;A1
-permanent;B2
-permission;A2
-permit;B2
-person;A1
-personal;A1
-personality;A2
-personally;B1
-perspective;B2
-persuade;B1
-pet;A2
-petrol;A2
-phase;B2
-phenomenon;B2
-philosophy;B2
-poster;A2
-pot;B1
-potato;A1
-potential;B2
-pound;A1
-pour;B1
-poverty;B1
-powder;B1
-power;A2,B2
-powerful;B1
-practical;B1
-practice;A1
-practise;A1
-praise;B2
-pray;B1
-prayer;B1
-predict;A2
-prediction;B1
-prefer;A1
-pregnant;B2
-preparation;B2
-prepare;A1
-prepared;B1
-presence;B2
-present;A1,A2
-presentation;B1
-preserve;B2
-president;A2
-press;B1
-pressure;B1
-pretend;B1
-pretty;;A1
-prevent;A2
+penny,
+pension1,
+people,
+pepper,
+per,
+per cent,
+percentage,
+perfect,
+perfectly,
+perform,
+performance,
+perhaps,
+period,
+permanent,
+permission,
+permit,
+person,
+personal,
+personality,
+personally,
+perspective,
+persuade,
+pet,
+petrol,
+phase,
+phenomenon,
+philosophy,
+poster,
+pot,
+potato,
+potential,
+pound,
+pour,
+poverty,
+powder,
+power,,B2
+powerful,
+practical,
+practice,
+practise,
+praise,
+pray,
+prayer,
+predict,
+prediction,
+prefer,
+pregnant,
+preparation,
+prepare,
+prepared,
+presence,
+present,,A2
+presentation,
+preserve,
+president,
+press,
+pressure,
+pretend,
+pretty;,
+prevent,
 
 пенни н. A2
-пенсия1;B2
-люди;A1
+пенсия1,
+люди,
 перец н. A1
 за преп. A2
 процентов;/ доп. A2
-процент;B1
-идеальный;A1
-отлично;B1
-выполнить;A2
-исполнение;B1
-возможно;A2
-период;A1
-постоянный;B2
-разрешение;A2
-разрешение;B2
-человек;A1
-личный;A1
-личность;A2
+процент,
+идеальный,
+отлично,
+выполнить,
+исполнение,
+возможно,
+период,
+постоянный,
+разрешение,
+разрешение,
+человек,
+личный,
+личность,
 лично посоветовал. B1
-перспектива;B2
+перспектива,
 убедить против B1
-домашнее животное;A2
+домашнее животное,
 бензин н. A2
-фаза;B2
-явление;B2
-философия;B2
-плакат;A2
-горшок;B1
+фаза,
+явление,
+философия,
+плакат,
+горшок,
 картофель н. A1
-потенциал;B2
-фунт;A1
-залить;B1
-бедность;B1
-порошок;B1
-мощность;A2,B2
-мощный;B1
-практический;B1
-практика;A1
-практика;A1
-похвала;B2
+потенциал,
+фунт,
+залить,
+бедность,
+порошок,
+мощность,,B2
+мощный,
+практический,
+практика,
+практика,
+похвала,
 молиться против B1
-молитва;B1
-предсказать;A2
-предсказание;B1
-предпочитаю;A1
-беременный;B2
-подготовка;B2
-подготовить;A1
-подготовленный;B1
-наличие;B2
-настоящее;A1,A2
-презентация;B1
-сохранить;B2
+молитва,
+предсказать,
+предсказание,
+предпочитаю,
+беременный,
+подготовка,
+подготовить,
+подготовленный,
+наличие,
+настоящее,,A2
+презентация,
+сохранить,
 президент н. A2
-нажмите;B1
-давление;B1
+нажмите,
+давление,
 притворяться против B1
 симпатичный прил.,A1
-предотвратить;A2
+предотвратить,
 
-pleasure;B1
+pleasure,
 plenty pron. B1
-plot;B1,B2
-plus1;B1,; conj.,B2
-pocket;A2
-poem;B1
-poet;B1
-poetry;B1
-point;A1,B1
-pointed;B2
-poison;B1
-poisonous;B1
-police;A1
-policeman;A1
-policy;B1
-polite;A2
-political;B1
-politician;B1
-politics;B1
-pollution;A2
-pool;A1
-poor;A1
-pop;A2
-popular;A1
-popularity;B2
-population;A2
-port;B1
-portrait;B1
-pose;B2
-position;A2,B2
-positive;A1,B2
-possess;B2
-possession;A2
-possibility;A2
-possible;A1
-possibly;B1
-post;A1
-pronounce;A2
-proof;B2
-proper;B1
-properly;B1
-property;B1
-proposal;B2
-propose;B2
-prospect;B2
-protect;A2
-protection;B2
-protest;B1
-proud;B1
-prove;B1
-provide;A2
-psychologist;B2
-psychology;B2
-pub;A2
-public;A2
-publication;B2
-publish;A2
-pull;A2,B1
-punish;B1
-punishment;B1
+plot,,B2
+plus1,,; conj.,B2
+pocket,
+poem,
+poet,
+poetry,
+point,,B1
+pointed,
+poison,
+poisonous,
+police,
+policeman,
+policy,
+polite,
+political,
+politician,
+politics,
+pollution,
+pool,
+poor,
+pop,
+popular,
+popularity,
+population,
+port,
+portrait,
+pose,
+position,,B2
+positive,,B2
+possess,
+possession,
+possibility,
+possible,
+possibly,
+post,
+pronounce,
+proof,
+proper,
+properly,
+property,
+proposal,
+propose,
+prospect,
+protect,
+protection,
+protest,
+proud,
+prove,
+provide,
+psychologist,
+psychology,
+pub,
+public,
+publication,
+publish,
+pull,,B1
+punish,
+punishment,
 
-удовольствие;B1
-previous;B1
+удовольствие,
+previous,
 много прон. B1
-previously;B1
-участок;B1, версия B2
-price;A1,B2
+previously,
+участок,, версия B2
+price,,B2
 плюс1 преп. B1, прил., Конъюнктура, сущ.
 priest
 B2n. B1
-карман;A2
-primary;B1
-стихотворение;B1
-prime;B2
+карман,
+primary,
+стихотворение,
+prime,
 поэт Н. B1
-prince;B1
-поэзия;B1
-princess;B1
-точка;A1, версия B1
-principle;B2
-остроконечный;B2
-print;A2,B2
+prince,
+поэзия,
+princess,
+точка,, версия B1
+principle,
+остроконечный,
+print,,B2
 яд;В1
-printer;A2
-ядовитый;B1
-printing;B1
-полиция;A1
-priority;B2
+printer,
+ядовитый,
+printing,
+полиция,
+priority,
 милиционер н. A1
-prison;A2
-политика;B1
-prisoner;B1
-вежливый;A2
-privacy;B2
-политический;B1
-private;B1
+prison,
+политика,
+prisoner,
+вежливый,
+privacy,
+политический,
+private,
 политик н. B1
-prize;A2
-политика;B1
-probably;A1
-загрязнение;A2
-problem;A1
-бассейн;A1
-procedure;B2
-плохой;A1
-process;A2,B2
-pop;A2
-produce;A2,B2
-популярный;A1
-producer;B1
-популярность;B2
-product;A1
-население;A2
-production;B1
-порт;B1
-profession;B1
+prize,
+политика,
+probably,
+загрязнение,
+problem,
+бассейн,
+procedure,
+плохой,
+process,,B2
+pop,
+produce,,B2
+популярный,
+producer,
+популярность,
+product,
+население,
+production,
+порт,
+profession,
 портрет н. B1
-professional;A2,B2
-поза;B2
-professor;A2
-позиция;A2,B2
-profile;A2
+professional,,B2
+поза,
+professor,
+позиция,,B2
+profile,
 положительный;А1,B2
-profit;B1
-владеть;B2
-program;A2,B1
-владение;A2
-programme;A1
-возможность;A2
-progress;A2,B2
-возможно;A1
-project;A1,B2
-возможно;B1
-promise;A2
+profit,
+владеть,
+program,,B1
+владение,
+programme,
+возможность,
+progress,,B2
+возможно,
+project,,B2
+возможно,
+promise,
 пост;А1
-promote;B1
-произносить;A2
-ready;A1
-доказательство;B2
-real;A1
-правильный;B1
-realistic;B2
+promote,
+произносить,
+ready,
+доказательство,
+real,
+правильный,
+realistic,
 правильно посоветовать. B1
-reality;B1
-свойство;B1
-realize;A2
-предложение;B2
-really;A1
-предложение;B2
-reason;A1
-проспект;B2
-reasonable;B2
-защитить;A2
-recall;B2
-защита;B2
-receipt;B1
-протест;B1
-receive;A2
-гордый;B1
-recent;A2
-доказать;B1
-recently;A2
-предоставить;A2
-reception;A2
+reality,
+свойство,
+realize,
+предложение,
+really,
+предложение,
+reason,
+проспект,
+reasonable,
+защитить,
+recall,
+защита,
+receipt,
+протест,
+receive,
+гордый,
+recent,
+доказать,
+recently,
+предоставить,
+reception,
 психолог н. B2
-recipe;A2
-психология;B2
-recognize;A2
-паб;A2
-recommend;A2
-общественный;A2
-recommendation;B1
-публикация;B2
-record;A2
-опубликовать;A2
-recording;A2
-тянуть;A2,B1
-recover;B2
-наказать;B1
-recycle;A2
-наказание;B1
-red;A1
-предыдущий;B1
-ранее;B1
-цена;A1,B2
+recipe,
+психология,
+recognize,
+паб,
+recommend,
+общественный,
+recommendation,
+публикация,
+record,
+опубликовать,
+recording,
+тянуть,,B1
+recover,
+наказать,
+recycle,
+наказание,
+red,
+предыдущий,
+ранее,
+цена,,B2
 священник н. B1
-первичный;B1
-премьер;B2
-князь;B1
-принцесса;B1
-принцип;B2
-напечатайте;A2,B2
-принтер;A2
-печать;B1
-приоритет;B2
-тюрьма;A2
-заключенный;B1
-конфиденциальность;B2
-частный;B1
-приз;A2
-наверное;A1
-проблема;A1
-процедура;B2
-процесс;A2,B2
-произвести;A2,B2
-производитель;B1
-продукт;A1
-производство;B1
-профессия;B1
+первичный,
+премьер,
+князь,
+принцесса,
+принцип,
+напечатайте,,B2
+принтер,
+печать,
+приоритет,
+тюрьма,
+заключенный,
+конфиденциальность,
+частный,
+приз,
+наверное,
+проблема,
+процедура,
+процесс,,B2
+произвести,,B2
+производитель,
+продукт,
+производство,
+профессия,
 профессиональный
 профессор Н. A2
-профиль;A2
-прибыль;B1
-программа;A2, версия B1
-программа;A1
-прогресс;A2,B2
-проект;A1,B2
-обещание;A2
+профиль,
+прибыль,
+программа,, версия B1
+программа,
+прогресс,,B2
+проект,,B2
+обещание,
 продвигать версию B1
-готов;A1
-реальный;A1
-реалистичный;B2
-реальность;B1
-реализовать;A2
-действительно;A1
-причина;A1
-разумный;B2
-напомнить;B2
-квитанция;B1
-получить;A2
-недавний;A2
-недавно;A2
-прием;A2
-рецепт;A2
-признать;A2
-рекомендую;A2
-рекомендация;B1
-запись;A2
-запись;A2
-восстановить;B2
-переработка;A2
-красный;A1
+готов,
+реальный,
+реалистичный,
+реальность,
+реализовать,
+действительно,
+причина,
+разумный,
+напомнить,
+квитанция,
+получить,
+недавний,
+недавно,
+прием,
+рецепт,
+признать,
+рекомендую,
+рекомендация,
+запись,
+запись,
+восстановить,
+переработка,
+красный,
 
-pupil;B2
-purchase;B2
-pure;B2
-purple;A1
-purpose;A2
-pursue;B2
-push;A2,B1
-put;A1
-qualification;B1
-qualified;B1
-qualify;B1
-quality;A2
-quantity;A2
-quarter;A1
-queen;A2
-question;A1,A2
-queue;B1
-quick;A1
-quickly;A1
-quiet;A1
-quietly;A2
-quit;B1
-quite;A1
-quotation;B1
-quote;B1
-race (competition);A2
-race (people);B1
-racing;B1
-radio;A1
-railway;A2
-rain;A1
-raise;A2
-range;B1,B2
-rank;B2
-rapid;B2
-rapidly;B2
-rare;B1
-rarely;B1
-rate;A2,B2
-rather;A2
-raw;B2
-reach;A2,B2
-react;A2
-reaction;B1
-read;A1
-reader;A1
-reading;A1
-reputation;B2
-request;A2,B1
-require;B1
-requirement;B2
-rescue;B2
-research;A2
-researcher;A2
-reservation;B1
-reserve;B2
-resident;B2
-resist;B2
-resolve;B2
-resort;B2
-resource;B1
+pupil,
+purchase,
+pure,
+purple,
+purpose,
+pursue,
+push,,B1
+put,
+qualification,
+qualified,
+qualify,
+quality,
+quantity,
+quarter,
+queen,
+question,,A2
+queue,
+quick,
+quickly,
+quiet,
+quietly,
+quit,
+quite,
+quotation,
+quote,
+race (competition),
+race (people),
+racing,
+radio,
+railway,
+rain,
+raise,
+range,,B2
+rank,
+rapid,
+rapidly,
+rare,
+rarely,
+rate,,B2
+rather,
+raw,
+reach,,B2
+react,
+reaction,
+read,
+reader,
+reading,
+reputation,
+request,,B1
+require,
+requirement,
+rescue,
+research,
+researcher,
+reservation,
+reserve,
+resident,
+resist,
+resolve,
+resort,
+resource,
 
 ученик н. B2
-Купить;B2
-чистый;B2
-пурпурный;A1
-цель;A2
-преследовать;B2
-нажмите;A2,B1
-положить;A1
-квалификация;B1
-квалифицированный;B1
-квалифицировать;B1
-качество;A2
-количество;A2
-квартал;A1
-королева;A2
-вопрос;A1,A2
-очередь;B1
-быстрая;A1
-быстро;A1
-тихий;A1
-тихо;A2
+Купить,
+чистый,
+пурпурный,
+цель,
+преследовать,
+нажмите,,B1
+положить,
+квалификация,
+квалифицированный,
+квалифицировать,
+качество,
+количество,
+квартал,
+королева,
+вопрос,,A2
+очередь,
+быстрая,
+быстро,
+тихий,
+тихо,
 выйти из версии B1
-довольно;A1
-цитата;B1
-цитата;B1
-гонка (соревнование);A2
+довольно,
+цитата,
+цитата,
+гонка (соревнование),
 раса (люди) сущ. B1
-гоночный;B1
-радио;A1
-железная дорога;A2
+гоночный,
+радио,
+железная дорога,
 дождь;А1
-поднять;A2
-диапазон;B1, версия B2
-ранг;B2
-быстрый;B2
-быстро;B2
-редкий;B1
-редко;B1
-оценка;A2,B2
-скорее;A2
-сырой;B2
-достичь;A2,B2
-реагировать;A2
-реакция;B1
-читать;A1
-читатель;A1
-чтение;A1
-репутация;B2
-запрос;A2, версия B1
+поднять,
+диапазон,, версия B2
+ранг,
+быстрый,
+быстро,
+редкий,
+редко,
+оценка,,B2
+скорее,
+сырой,
+достичь,,B2
+реагировать,
+реакция,
+читать,
+читатель,
+чтение,
+репутация,
+запрос,, версия B1
 требуется версия B1
-требование;B2
-спасение;B2
-исследования;A2
+требование,
+спасение,
+исследования,
 исследователь Н. A2
-бронирование;B1
+бронирование,
 резерв;В2
-житель;B2
+житель,
 сопротивляться против B2
-решить;B2
-курорт;B2
-ресурс;B1
+решить,
+курорт,
+ресурс,
 
-reduce;A2
-reduction;B2
-refer;A2
-reference;B1
-reflect;B1
-refuse1;A2
-regard;B2
-region;A2
-regional;B2
-register;B2
-regret;B2
-regular;A2
-regularly;B1
-regulation;B2
-reject;B1
-relate;B1
-related;B1
-relation;B1
-relationship;A2
-relative;B1
-relatively;B2
-relax;A1
-relaxed;B1
-relaxing;B1
-release;B1
-relevant;B2
-reliable;B1
-relief;B2
-religion;B1
-religious;B1
-rely;B2
-remain;B1
-remark;B2
-remember;A1
-remind;B1
-remote;B1
-remove;A2
-rent;B1
-repair;A2,B1
-repeat;A1,B1
-repeated;B1
-replace;A2
-reply;A2
-report;A1,A2
-reporter;A2
-represent;B1
-representative;B2
-rush;B2
-sad;A1
-sadly;A2
-safe;A2
-safety;B1
-sail;A2,B1
-sailing;A2
-sailor;B1
-salad;A1
-salary;A2
-sale;A2
-salt;A1
-same; pron.,;A1
-sample;B1,B2
+reduce,
+reduction,
+refer,
+reference,
+reflect,
+refuse1,
+regard,
+region,
+regional,
+register,
+regret,
+regular,
+regularly,
+regulation,
+reject,
+relate,
+related,
+relation,
+relationship,
+relative,
+relatively,
+relax,
+relaxed,
+relaxing,
+release,
+relevant,
+reliable,
+relief,
+religion,
+religious,
+rely,
+remain,
+remark,
+remember,
+remind,
+remote,
+remove,
+rent,
+repair,,B1
+repeat,,B1
+repeated,
+replace,
+reply,
+report,,A2
+reporter,
+represent,
+representative,
+rush,
+sad,
+sadly,
+safe,
+safety,
+sail,,B1
+sailing,
+sailor,
+salad,
+salary,
+sale,
+salt,
+same; pron.,,
+sample,,B2
 
-уменьшить;A2
-сокращение;B2
-см.;A2
-ссылка;B1
-отражать;B1
-отказаться1;A2
-считать;B2
-область;A2
-региональный;B2
-регистр;B2
-сожаление;B2
-регулярный;A2
+уменьшить,
+сокращение,
+см.,
+ссылка,
+отражать,
+отказаться1,
+считать,
+область,
+региональный,
+регистр,
+сожаление,
+регулярный,
 регулярно посоветовать. B1
-положение;B2
-отклонить;B1
-относятся к;B1
-родственный;B1
-отношение;B1
-отношения;A2
-относительный;B1
-относительно;B2
-расслабиться;A1
-расслабленный;B1
-расслабляющий;B1
-выпуск;B1
-соответствующий;B2
-надежный;B1
-облегчение;B2
-религия;B1
-религиозный;B1
-полагаться на;B2
-остаться;B1
-Замечание;B2
+положение,
+отклонить,
+относятся к,
+родственный,
+отношение,
+отношения,
+относительный,
+относительно,
+расслабиться,
+расслабленный,
+расслабляющий,
+выпуск,
+соответствующий,
+надежный,
+облегчение,
+религия,
+религиозный,
+полагаться на,
+остаться,
+Замечание,
 помните ст. A1
-напомнить;B1
-удаленный;B1
-удалить;A2
+напомнить,
+удаленный,
+удалить,
 Аренда в. Б1
 ремонт т. А2, н. B1
 повторить т. А1,B1
-повторяется;B1
-заменить;A2
-ответ;A2
-отчет;A1,A2
+повторяется,
+заменить,
+ответ,
+отчет,,A2
 репортер н. A2
-представляют;B1
-представитель;B2
-спешка;B2
-грустный;A1
-грустно;A2
-безопасный;A2
-безопасность;B1
-парус;A2,B1
-парусный спорт;A2
-матрос;B1
+представляют,
+представитель,
+спешка,
+грустный,
+грустно,
+безопасный,
+безопасность,
+парус,,B1
+парусный спорт,
+матрос,
 салат н. A1
-оклад;A2
-продажа;A2
+оклад,
+продажа,
 соль н. A1
 то же прил., произн.,A1
-образец;B1, версия B2
+образец,, версия B2
 
-respect;B1
-respond;A2
-response;A2
-responsibility;B1
-responsible;B1
-rest (remaining part);A2
-rest (sleep/relax);A2
-restaurant;A1
-result;A1,B1
-retain;B2
-retire;B1
-retired;B1
-return;A1
-reveal;B2
-review;A2
-revise;B1
-revolution;B2
-reward;B2
-rhythm;B2
-rice;A1
-rich;A1
-rid;B2
-ride;A1,A2
+respect,
+respond,
+response,
+responsibility,
+responsible,
+rest (remaining part),
+rest (sleep/relax),
+restaurant,
+result,,B1
+retain,
+retire,
+retired,
+return,
+reveal,
+review,
+revise,
+revolution,
+reward,
+rhythm,
+rice,
+rich,
+rid,
+ride,,A2
 right;;,A1
-ring1;A2
-ring2;A2,B1
-rise;A2,B1
-risk;B1
-river;A1
-road;A1
-robot;B1
-rock (stone);A2
-rock (music);A2
-role;A2
-roll;B1
-romantic;B1
-roof;A2
-room;A1
-root;B2
-rope;B1
-rough;B1
-round;;,;A2,B2
-route;A2
-routine;A1,B2
-row1;B1
-royal;B1
-rub;B2
-rubber;B2
-rubbish;A2
-rude;A2
-rugby;B1
-rule;A1,B1
-run;A1,A2
-runner;A2
-running;A2
-rural;B2
-September;A1
-sequence;B2
-series;A2
-serious;A2
-seriously;B1
-servant;B1
-serve;A2
+ring1,
+ring2,,B1
+rise,,B1
+risk,
+river,
+road,
+robot,
+rock (stone),
+rock (music),
+role,
+roll,
+romantic,
+roof,
+room,
+root,
+rope,
+rough,
+round;;,,,B2
+route,
+routine,,B2
+row1,
+royal,
+rub,
+rubber,
+rubbish,
+rude,
+rugby,
+rule,,B1
+run,,A2
+runner,
+running,
+rural,
+September,
+sequence,
+series,
+serious,
+seriously,
+servant,
+serve,
 
-уважение;B1
-ответить;A2
-ответ;A2
-ответственность;B1
-ответственный;B1
-остаток (оставшаяся часть);A2
-отдых (сон / расслабление);A2
+уважение,
+ответить,
+ответ,
+ответственность,
+ответственный,
+остаток (оставшаяся часть),
+отдых (сон / расслабление),
 ресторан н. A1
-результат;A1, версия B1
-сохранить;B2
-выйти на пенсию;B1
-на пенсии;B1
-возврат;A1
-раскрыть;B2
-обзор;A2
-пересмотреть;B1
-революция;B2
+результат,, версия B1
+сохранить,
+выйти на пенсию,
+на пенсии,
+возврат,
+раскрыть,
+обзор,
+пересмотреть,
+революция,
 награда;В2
-ритм;B2
+ритм,
 рис н. A1
-богатый;A1
-избавиться;B2
-ездить;A1,A2
+богатый,
+избавиться,
+ездить,,A2
 правый прил., нареч., сущ. A1
-кольцо1;A2
-кольцо2;A2,B1
-подъем;A2,B1
-риск;B1
-река;A1
-дорога;A1
-робот;B1
+кольцо1,
+кольцо2,,B1
+подъем,,B1
+риск,
+река,
+дорога,
+робот,
 рок (камень) сущ. A2
 рок (музыка) сущ. A2
-роль;A2
+роль,
 рулон в.,B1
-романтичный;B1
-крыша;A2
-комната;A1
-корень;B2
-веревка;B1
-грубый;B1
+романтичный,
+крыша,
+комната,
+корень,
+веревка,
+грубый,
 раунд прил., нареч., преп. A2,B2
-маршрут;A2
-рутина;A1,B2
-row1;B1
-королевский;B1
-руб.;B2
-резина;B2
+маршрут,
+рутина,,B2
+row1,
+королевский,
+руб.,
+резина,
 мусор н. A2
-грубый;A2
+грубый,
 регBсущ. B1
-правило;A1, версия B1
-запустить;A1,A2
+правило,, версия B1
+запустить,,A2
 бегун н. A2
-работает;A2
-сельский;B2
+работает,
+сельский,
 Сентябрь н. A1
-последовательность;B2
-серия;A2
-серьезный;A2
+последовательность,
+серия,
+серьезный,
 серьезно нарекать. B1
 слуга н. B1
-служить;A2
+служить,
 
-sand;B1
-sandwich;A1
-satellite;B2
-satisfied;B2
-satisfy;B2
-Saturday;A1
-sauce;A2
-save;A2
-saving;B2
-say;A1
-scale;B2
-scan;B1
-scared;A2
-scary;A2
-scene;A2
-schedule;A2,B2
-scheme;B2
-school;A1
-science;A1
-scientific;B1
-scientist;A1
-score;A2
-scream;B2
-screen;A2,B2
-script;B1
-sculpture;B1
-sea;A1
-search;A2
-season;A2
-seat;A2,B2
+sand,
+sandwich,
+satellite,
+satisfied,
+satisfy,
+Saturday,
+sauce,
+save,
+saving,
+say,
+scale,
+scan,
+scared,
+scary,
+scene,
+schedule,,B2
+scheme,
+school,
+science,
+scientific,
+scientist,
+score,
+scream,
+screen,,B2
+script,
+sculpture,
+sea,
+search,
+season,
+seat,,B2
 second1 (next after the first) det./
-number A1,;A2
-second1 (unit of time);A1
-secondary;B1
-secondly;A2
-secret;A2
-secretary;A2
-section;A1
-sector;B2
-secure;B2
-security;B1
-see;A1
-seed;B1
-seek;B2
-seem;A2
-select;B2
-selection;B2
-self;B2
-sell;A1
-send;A1
-senior;B2
-sense;A2,B2
-sensible;B1
-sensitive;B2
-sentence;A1,B2
-separate;A2,B1
-similarly;B1
-simple;A2
-simply;B1
-since conj. A2,;B1
-sincere;B2
-sing;A1
-singer;A1
+number A1,,
+second1 (unit of time),
+secondary,
+secondly,
+secret,
+secretary,
+section,
+sector,
+secure,
+security,
+see,
+seed,
+seek,
+seem,
+select,
+selection,
+self,
+sell,
+send,
+senior,
+sense,,B2
+sensible,
+sensitive,
+sentence,,B2
+separate,,B1
+similarly,
+simple,
+simply,
+since conj. A2,,
+sincere,
+sing,
+singer,
 
 песок н. B1
 бутерброд н. A1
-спутник;B2
-довольный;B2
-удовлетворить;B2
-Суббота;A1
+спутник,
+довольный,
+удовлетворить,
+Суббота,
 соус н. A2
-сохранить;A2
-экономия;B2
-сказать;A1
-шкала;B2
-сканирование;B1
-испуганный;A2
-страшный;A2
-сцена;A2
-график;A2,B2
-схема;B2
-школа;A1
-наука;A1
-научный;B1
+сохранить,
+экономия,
+сказать,
+шкала,
+сканирование,
+испуганный,
+страшный,
+сцена,
+график,,B2
+схема,
+школа,
+наука,
+научный,
 ученый н. A1
-оценка;A2
-крик;B2
-экран;A2,B2
-скрипт;B1
-скульптура;B1
-море;A1
-поиск;A2
-сезон;A2
-сиденье;A2,B2
+оценка,
+крик,
+экран,,B2
+скрипт,
+скульптура,
+море,
+поиск,
+сезон,
+сиденье,,B2
 второй1
 номер А1,A2
-second1 (единица времени);A1
-вторичный;B1
+second1 (единица времени),
+вторичный,
 во-вторых нарек. A2
-секрет;A2
+секрет,
 секретарь Н. A2
 раздел № A1
-сектор;B2
-secure;B2
-безопасность;B1
-см.;A1
-семя;B1
-искать;B2
-кажется;A2
-выберите;B2
-выбор;B2
-self;B2
-продать;A1
-отправить;A1
-старший;B2
-смысл;A2,B2
-разумный;B1
-чувствительный;B2
-предложение;A1,B2
-отдельный;A2, версия B1
-аналогично;B1
-простой;A2
-просто;B1
+сектор,
+secure,
+безопасность,
+см.,
+семя,
+искать,
+кажется,
+выберите,
+выбор,
+self,
+продать,
+отправить,
+старший,
+смысл,,B2
+разумный,
+чувствительный,
+предложение,,B2
+отдельный,, версия B1
+аналогично,
+простой,
+просто,
 с преп., конн. A2,B1
-искренний;B2
-петь;A1
+искренний,
+петь,
 певица н. A1
 
-service;A2
-session;B2
-set (put);B1
-set (group);B1
-setting;B1
-settle;B2
+service,
+session,
+set (put),
+set (group),
+setting,
+settle,
 seven number A1
 seventeen number A1
 seventy number A1
 several det./pron. A2
-severe;B2
-sex;B1
-sexual;B1
-shade;B2
-shadow;B2
-shake;A2,B1
-shall modal;A2
-shallow;B2
-shame;B2
-shape;A2,B2
-share;A1,B1
-sharp;B1
+severe,
+sex,
+sexual,
+shade,
+shadow,
+shake,,B1
+shall modal,
+shallow,
+shame,
+shape,,B2
+share,,B1
+sharp,
 she pron. A1
-sheep;A1
-sheet;A2
-shelf;B1
-shell;B1
-shelter;B2
-shift;B1,B2
-shine;B1
-shiny;B1
-ship;A2,B2
-shirt;A1
-shock;B2
-shocked;B2
-shoe;A1
-shoot;B1
-shooting;B2
-shop;A1
-shopping;A1
-short;A1
-shot;B2
-should modal;A1
-shoulder;A2
-shout;A2
-show;A1
-shower;A1
-shut;A2
-shy;B1
-sick;A1
-side;A2
-sight;B1
-sign;A2
-signal;B1
-significant;B2
-significantly;B2
-silence;B2
-silent;B1
-silk;B2
-silly;B1
-silver;A2
-similar;A1
-similarity;B1
+sheep,
+sheet,
+shelf,
+shell,
+shelter,
+shift,,B2
+shine,
+shiny,
+ship,,B2
+shirt,
+shock,
+shocked,
+shoe,
+shoot,
+shooting,
+shop,
+shopping,
+short,
+shot,
+should modal,
+shoulder,
+shout,
+show,
+shower,
+shut,
+shy,
+sick,
+side,
+sight,
+sign,
+signal,
+significant,
+significantly,
+silence,
+silent,
+silk,
+silly,
+silver,
+similar,
+similarity,
 
-сервис;A2
-сессия;B2
-установить (положить);B1
-набор (группа);B1
-установка;B1
-урегулировать;B2
+сервис,
+сессия,
+установить (положить),
+набор (группа),
+установка,
+урегулировать,
 семерка номер A1
 семнадцать число А1
 семьдесят номер А1
 несколько дет. / пр. A2
-суровый;B2
-пол;B1
-сексуальный;B1
-оттенок;B2
-тень;B2
-встряхнуть;A2,B1
-должен модально;A2
-мелкий;B2
+суровый,
+пол,
+сексуальный,
+оттенок,
+тень,
+встряхнуть,,B1
+должен модально,
+мелкий,
 позор н. B2
-форма;A2,B2
-доля;A1,B1
-острый;B1
+форма,,B2
+доля,,B1
+острый,
 она произн. A1
-овца;A1
-лист;A2
-полка;B1
-оболочка;B1
+овца,
+лист,
+полка,
+оболочка,
 приют;В2
-сдвиг;B1, версия B2
-блеск;B1
-блестящий;B1
-корабль;A2,B2
-рубашка;A1
-шок;B2
-шокированный;B2
-обувь;A1
+сдвиг,, версия B2
+блеск,
+блестящий,
+корабль,,B2
+рубашка,
+шок,
+шокированный,
+обувь,
 стрелять против B1
-стрельба;B2
+стрельба,
 магазин в. А1
-покупка;A1
-краткий;A1
-выстрелил;B2
-должен модальный;A1
-плечо;A2
-кричать;A2
-показать;A1
-душ;A1
-закрыл;A2
-застенчивый;B1
-больной;A1
-сторона;A2
-прицел;B1
-знак;A2
-сигнал;B1
-значительный;B2
-значительно;B2
-тишина;B2
-безмолвный;B1
-шелк;B2
-глупый;B1
-silver;A2
-подобный;A1
-подобие;B1
+покупка,
+краткий,
+выстрелил,
+должен модальный,
+плечо,
+кричать,
+показать,
+душ,
+закрыл,
+застенчивый,
+больной,
+сторона,
+прицел,
+знак,
+сигнал,
+значительный,
+значительно,
+тишина,
+безмолвный,
+шелк,
+глупый,
+silver,
+подобный,
+подобие,
 
-singing;A2
-single;A2
-sink;B1
-sir;A2
-sister;A1
-sit;A1
-site;A2
-situation;A1
+singing,
+single,
+sink,
+sir,
+sister,
+sit,
+site,
+situation,
 six number A1
 sixteen number A1
 sixty number A1
-size;A2
-ski;A2
-skiing;A2
-skill;A1
-skin;A2
-skirt;A1
-sky;A2
-slave;B2
-sleep;A1,A2
-slice;B1
-slide;B2
-slight;B2
-slightly;B1
-slip;B2
-slope;B2
-slow;A1,B1
-slowly;A2
-small;A1
-smart;B1
-smartphone;A2
-smell;A2
-smile;A2
-smoke;A2
-smoking;A2
-smooth;B1
-snake;A1
-snow;A1
+size,
+ski,
+skiing,
+skill,
+skin,
+skirt,
+sky,
+slave,
+sleep,,A2
+slice,
+slide,
+slight,
+slightly,
+slip,
+slope,
+slow,,B1
+slowly,
+small,
+smart,
+smartphone,
+smell,
+smile,
+smoke,
+smoking,
+smooth,
+snake,
+snow,
 so;, conj. A1
-soap;A2
-soccer;A2
-social;A2
-society;A2
-sock;A2
-soft;A2
-software;B1
-soil;B1
-solar;B2
-soldier;A2
-solid;B1
-solution;A2
-solve;A2
+soap,
+soccer,
+social,
+society,
+sock,
+soft,
+software,
+soil,
+solar,
+soldier,
+solid,
+solution,
+solve,
 some det., pron. A1
 somebody pron. A1
 someone pron. A1
 something pron. A1
-sometimes;A1
-somewhat;B2
+sometimes,
+somewhat,
 somewhere;, pron. A2
-son;A1
-song;A1
-soon;A1
+son,
+song,
+soon,
 sorry; exclam. A1
 
-пение;A2
-одиночный;A2
-раковина;B1
+пение,
+одиночный,
+раковина,
 сэр н. A2
 сестра н. A1
 сидеть против A1
-сайт;A2
-ситуация;A1
+сайт,
+ситуация,
 шестерка номер A1
 шестнадцать число А1
 шестьдесят номер А1
-размер;A2
+размер,
 лыжи в., н. A2
-катание на лыжах;A2
-навык;A1
-кожа;A2
-юбка;A1
-небо;A2
-раб;B2
-сон;A1,A2
-ломтик;B1
-слайд;B2
-небольшой;B2
-слегка;B1
-промах;B2
-склон;B2
-медленный;A1, версия B1
-медленно;A2
-малый;A1
-умный;B1
-смартфон;A2
-запах;A2
+катание на лыжах,
+навык,
+кожа,
+юбка,
+небо,
+раб,
+сон,,A2
+ломтик,
+слайд,
+небольшой,
+слегка,
+промах,
+склон,
+медленный,, версия B1
+медленно,
+малый,
+умный,
+смартфон,
+запах,
 улыбка в., н. A2
 дым н., т. A2
-курение;A2
-гладкий;B1
-змея;A1
+курение,
+гладкий,
+змея,
 снег с. А1
 так нареч., соедин. A1
 мыло н. A2
-футбол;A2
-социальный;A2
-общество;A2
-носок;A2
-мягкий;A2
-программное обеспечение;B1
-почва;B1
-солнечный;B2
-солдат;A2
-твердый;B1
-раствор;A2
-решить;A2
+футбол,
+социальный,
+общество,
+носок,
+мягкий,
+программное обеспечение,
+почва,
+солнечный,
+солдат,
+твердый,
+раствор,
+решить,
 некоторая дет., пр. A1
 кто-то прон. A1
 кто-то прон. A1
 что-то прон. A1
-иногда;A1
-несколько;B2
+иногда,
+несколько,
 где-то нареч., прон. A2
-сын;A1
-песня;A1
-скоро;A1
+сын,
+песня,
+скоро,
 извините
-sort;A2,B1сортировать;A2, версия B1
+sort,,B1сортировать,, версия B1
 
-strange;A2странный;A2
-soul;B2
-sound;A1
-soup;A1
-source;A2
-south;;A1
-southern;B1
-space;A1
-speak;A1
-speaker;A2
-special;A1
-specialist;B2
-species;B2
-specific;A2
-specifically;B1
-speech;A2
-speed;A2,B2
-spell;A1
-spelling;A1
-spend;A1
-spending;B1
-spicy;B1
-spider;A2
-spirit;B1
-spiritual;B2
-split;B2
-spoken;B1
-sponsor;B2
-spoon;A2
-sport;A1
-spot;B1,B2
-spread;B1,B2
-spring;A1,B1
-square;A2
-stable;B2
-stadium;B1
-staff;B1
-stage;A2,B2
-stair;A2
-stamp;A2
-stand;A1,B2
-standard;B1
-star;A1,A2
-stare;B2
-start;A1,A2
-state;A2,;B1
-statement;A1
-station;A1
-statistic;B1
-statue;B1
-status;B2
-stay;A1,A2
-steady;B2
-steal;A2
-steel;B2
-steep;B2
-step;A2,B2
-stick (push into/attach);B1
-stick (piece of wood);B1
-sticky;B2
-stiff;B2
-still;A1,B1
-stock;B2
-stomach;A2
-stone;A2
-stop;A1
+strange,странный,
+soul,
+sound,
+soup,
+source,
+south;,
+southern,
+space,
+speak,
+speaker,
+special,
+specialist,
+species,
+specific,
+specifically,
+speech,
+speed,,B2
+spell,
+spelling,
+spend,
+spending,
+spicy,
+spider,
+spirit,
+spiritual,
+split,
+spoken,
+sponsor,
+spoon,
+sport,
+spot,,B2
+spread,,B2
+spring,,B1
+square,
+stable,
+stadium,
+staff,
+stage,,B2
+stair,
+stamp,
+stand,,B2
+standard,
+star,,A2
+stare,
+start,,A2
+state,,,
+statement,
+station,
+statistic,
+statue,
+status,
+stay,,A2
+steady,
+steal,
+steel,
+steep,
+step,,B2
+stick (push into/attach),
+stick (piece of wood),
+sticky,
+stiff,
+still,,B1
+stock,
+stomach,
+stone,
+stop,
 
-душа;B2
+душа,
 звук;А1
 суп н. A1
-источник;A2
+источник,
 юг прил.,A1
-южный;B1
-пространство;A1
+южный,
+пространство,
 говорить против A1
-динамик;A2
-специальный;A1
-специалист;B2
-вид;B2
-специфический;A2
+динамик,
+специальный,
+специалист,
+вид,
+специфический,
 конкретно нарек. B1
-речь;A2
-скорость;A2,B2
-заклинание;A1
-написание;A1
-потратить;A1
-расходы;B1
-пряный;B1
-паук;A2
-дух;B1
-духовный;B2
-сплит;B2
-разговорный;B1
-спонсор;B2
+речь,
+скорость,,B2
+заклинание,
+написание,
+потратить,
+расходы,
+пряный,
+паук,
+дух,
+духовный,
+сплит,
+разговорный,
+спонсор,
 ложка н. A2
-спорт;A1
-пятно;B1, версия B2
-распространение;B1,B2
-весна;A1, версия B1
-квадратный;A2
-стабильный;B2
+спорт,
+пятно,, версия B2
+распространение,,B2
+весна,, версия B1
+квадратный,
+стабильный,
 стадион им. B1
-персонал;B1
-этап;A2,B2
-лестница;A2
-штамп;A2
-стенд;A1,B2
-стандартный;B1
-звезда;A1,A2
+персонал,
+этап,,B2
+лестница,
+штамп,
+стенд,,B2
+стандартный,
+звезда,,A2
 смотреть против B2
-начать;A1,A2
-состояние;A2, прил.,B1
-заявление;A1
-станция;A1
-статистика;B1
-статуя;B1
-статус;B2
-остаться;A1,A2
-устойчивый;B2
-украсть;A2
+начать,,A2
+состояние,, прил.,B1
+заявление,
+станция,
+статистика,
+статуя,
+статус,
+остаться,,A2
+устойчивый,
+украсть,
 сталь н. B2
-крутой;B2
-шаг;A2,B2
-палка (вставить / прикрепить);B1
-палка (деревяшка);B1
-липкий;B2
-жесткий;B2
-еще;A1,B1
-инвентарь;B2
-желудок;A2
-камень;A2
-стоп;A1
+крутой,
+шаг,,B2
+палка (вставить / прикрепить),
+палка (деревяшка),
+липкий,
+жесткий,
+еще,,B1
+инвентарь,
+желудок,
+камень,
+стоп,
 
-stranger;B1
-strategy;A2
-stream;B2
-street;A1
-strength;B1
-stress;A2
-stretch;B2
-strict;B2
-strike;B2
-string;B1
-strong;A1
-strongly;B1
-structure;A2,B2
-struggle;B2
-student;A1
-studio;B1
-study;A1
-stuff;B1,B2
-stupid;A2
-style;A1
-subject;A1,B2
-submit;B2
-substance;B1
-succeed;A2
-success;A1
-successful;A2
-successfully;B1
+stranger,
+strategy,
+stream,
+street,
+strength,
+stress,
+stretch,
+strict,
+strike,
+string,
+strong,
+strongly,
+structure,,B2
+struggle,
+student,
+studio,
+study,
+stuff,,B2
+stupid,
+style,
+subject,,B2
+submit,
+substance,
+succeed,
+success,
+successful,
+successfully,
 such det./pron. A2
-sudden;B1
-suddenly;A2
-suffer;B1
-sugar;A1
-suggest;A2
-suggestion;A2
-suit;A2,B1
-suitable;B1
-sum;B2
-summarize;B1
-summary;B1
-summer;A1
-sun;A1
-Sunday;A1
-supermarket;A1
-supply;B1
-support;A2
-supporter;B1
-suppose;A2
-sure;A1,;A2
-surely;B1
-surface;B1
-surgery;B2
-surprise;A2
-surprised;A2
-surprising;A2
-surround;B2
-surrounding;B2
-survey;A2,B2
-survive;B1
-suspect;B2
-swear;B2
-sweater;A1
-sweep;B2
-sweet;A2
-swim;A1,B1
-swimming;A1
+sudden,
+suddenly,
+suffer,
+sugar,
+suggest,
+suggestion,
+suit,,B1
+suitable,
+sum,
+summarize,
+summary,
+summer,
+sun,
+Sunday,
+supermarket,
+supply,
+support,
+supporter,
+suppose,
+sure,,,
+surely,
+surface,
+surgery,
+surprise,
+surprised,
+surprising,
+surround,
+surrounding,
+survey,,B2
+survive,
+suspect,
+swear,
+sweater,
+sweep,
+sweet,
+swim,,B1
+swimming,
 
 незнакомец н. B1
-стратегия;A2
-поток;B2
-улица;A1
-сила;B1
-стресс;A2
-протянуть;B2
-строгий;B2
-удар;B2
-строка;B1
-сильный;A1
+стратегия,
+поток,
+улица,
+сила,
+стресс,
+протянуть,
+строгий,
+удар,
+строка,
+сильный,
 настоятельно рекомендую. B1
-структура;A2,B2
-борьба;B2
-студент;A1
-студия;B1
+структура,,B2
+борьба,
+студент,
+студия,
 Изучение;А1
-набить;B1, версия B2
-глупый;A2
-стиль;A1
-тема;A1,B2
-представить;B2
-вещество;B1
-успешно;A2
-успех;A1
-успешный;A2
-успешно;B1
+набить,, версия B2
+глупый,
+стиль,
+тема,,B2
+представить,
+вещество,
+успешно,
+успех,
+успешный,
+успешно,
 такой дет./прон. A2
-внезапный;B1
-вдруг;A2
+внезапный,
+вдруг,
 страдать против B1
 сахар н. A1
-предложить;A2
-предложение;A2
-костюм;A2, версия B1
-подходящий;B1
-сумма;B2
-резюмировать;B1
-резюме;B1
-лето;A1
-вс;A1
-Воскресенье;A1
+предложить,
+предложение,
+костюм,, версия B1
+подходящий,
+сумма,
+резюмировать,
+резюме,
+лето,
+вс,
+Воскресенье,
 супермаркет н. A1
-Поставка;B1
-поддержка;A2
+Поставка,
+поддержка,
 сторонник н. B1
-предположим;A2
-конечно;A1,A2
-обязательно;B1
-поверхность;B1
-хирургия;B2
-сюрприз;A2
-удивленный;A2
-удивительный;A2
-окружают;B2
-окружающий;B2
-опрос;A2,B2
-выжить;B1
-подозреваемый;B2
+предположим,
+конечно,,A2
+обязательно,
+поверхность,
+хирургия,
+сюрприз,
+удивленный,
+удивительный,
+окружают,
+окружающий,
+опрос,,B2
+выжить,
+подозреваемый,
 клянусь против B2
-свитер;A1
-развертка;B2
-сладкий;A2
-плавать;A1,B1
-плавание;A1
+свитер,
+развертка,
+сладкий,
+плавать,,B1
+плавание,
 
-store;A2,B1
-storm;A2
-story;A1
+store,,B1
+storm,
+story,
 straight;,A2
-system;A2
-table;A1
-tablet;A2
-tail;B1
-take;A1
-tale;B2
-talent;B1
-talented;B1
-talk;A1,A2
-tall;A1
-tank;B2
-tape;B1
-target;A2,B2
-task;A2
-taste;A2
-tax;B1
-taxi;A1
-tea;A1
-teach;A1
-teacher;A1
-teaching;A2
-team;A1
-tear1;B2
-tear2;B2
-technical;B1
-technique;B1
-technology;A2
-teenage;A2
-teenager;A1
-telephone;A1
-television;A1
-tell;A1
-temperature;A2
-temporary;B2
+system,
+table,
+tablet,
+tail,
+take,
+tale,
+talent,
+talented,
+talk,,A2
+tall,
+tank,
+tape,
+target,,B2
+task,
+taste,
+tax,
+taxi,
+tea,
+teach,
+teacher,
+teaching,
+team,
+tear1,
+tear2,
+technical,
+technique,
+technology,
+teenage,
+teenager,
+telephone,
+television,
+tell,
+temperature,
+temporary,
 ten number A1
-tend;B1
-tennis;A1
-tent;B1
-term;A2,B2
-terrible;A1
-test;A1
-text;A1,A2
+tend,
+tennis,
+tent,
+term,,B2
+terrible,
+test,
+text,,A2
 than conj. A1
-thank;A1
+thank,
 thanks exclam.,A1
-that det., pron., conj. A1,;B1
+that det., pron., conj. A1,,
 the definite article A1
-theatre;A1
+theatre,
 their det. A1
 theirs pron. B1
 them pron. A1
-theme;B1
+theme,
 themselves pron. A2
-then;A1
-theory;B1
-therapy;B2
-there;A1
-therefore;B1
+then,
+theory,
+therapy,
+there,
+therefore,
 they pron. A1
 
-магазин;A2, версия B1
-штурм;A2
-рассказ;A1
+магазин,, версия B1
+штурм,
+рассказ,
 прямое нареч.,A2
-система;A2
-таблица;A1
-таблетка;A2
-хвост;B1
-возьмем;A1
-сказка;B2
-талант;B1
-талантливый;B1
+система,
+таблица,
+таблетка,
+хвост,
+возьмем,
+сказка,
+талант,
+талантливый,
 говорить т. А1,A2
-высокий;A1
-бак;B2
-лента;B1
-цель;A2,B2
-задача;A2
-вкус;A2
-налог;B1
-такси;A1
+высокий,
+бак,
+лента,
+цель,,B2
+задача,
+вкус,
+налог,
+такси,
 чай н. A1
-учить;A1
+учить,
 учитель н. A1
-обучение;A2
-команда;A1
-tear1;B2
-tear2;B2
-технический;B1
-техника;B1
-технология;A2
-подростковый;A2
+обучение,
+команда,
+tear1,
+tear2,
+технический,
+техника,
+технология,
+подростковый,
 подросток н. A1
 телефон;А1
-телевидение;A1
-сказать;A1
-температура;A2
-временный;B2
+телевидение,
+сказать,
+температура,
+временный,
 десять цифр А1
-тенденция;B1
-теннис;A1
-палатка;B1
-срок;A2,B2
-ужасный;A1
+тенденция,
+теннис,
+палатка,
+срок,,B2
+ужасный,
 тест;А1
-текст;A1,A2
+текст,,A2
 чем соедин. A1
-поблагодарить;A1
+поблагодарить,
 спасибо восклицательный.,A1
 то дет., прн., соедин. A1,B1
 определенный артикль A1
-театр;A1
+театр,
 их дет. A1
 их прон. B1
 их прон. A1
 мужчины. B1
 сами прон. A2
-затем;A1
-теория;B1
-терапия;B2
-там;A1
-поэтому;B1
+затем,
+теория,
+терапия,
+там,
+поэтому,
 они произн. A1
 
-switch;B1,B2
-symbol;A2
-sympathy;B2
-symptom;B1
-though conj.,;B1
-thought;A2
+switch,,B2
+symbol,
+sympathy,
+symptom,
+though conj.,,
+thought,
 thousand number A1
-threat;B2
-threaten;B2
+threat,
+threaten,
 three number A1
-throat;B1
-through;A1
-throughout;B1
-throw;A2
-Thursday;A1
-thus;B2
-ticket;A1
-tidy;A2
-tie;A2
-tight;B1
+throat,
+through,
+throughout,
+throw,
+Thursday,
+thus,
+ticket,
+tidy,
+tie,
+tight,
 till conj./prep. B1
-time;A1,B2
-tin;B1
-tiny;B1
-tip;A2,B1
-tired;A1
-title;A1,B2
+time,,B2
+tin,
+tiny,
+tip,,B1
+tired,
+title,,B2
 to infinitive marker A1
 today;,A1
-toe;B1
-together;A1
-toilet;A1
-tomato;A1
+toe,
+together,
+toilet,
+tomato,
 tomorrow;,A1
-tone;B2
-tongue;B1
+tone,
+tongue,
 tonight;,A1
-too;A1
-tool;A2
-tooth;A1
-top;A2
-topic;A1
-total;B1
-totally;B1
-touch;A2,B1
-tough;B2
-tour;A2,B1
-tourism;A2
-tourist;A1
-towards;A2
-towel;A2
-tower;A2
-town;A1
-toy;A2
-track;A2,B2
-trade;B1
-tradition;A2
-traditional;A2
-traffic;A1
-train;A1,A2
-trainer;A2
-training;A2
-transfer;B2
+too,
+tool,
+tooth,
+top,
+topic,
+total,
+totally,
+touch,,B1
+tough,
+tour,,B1
+tourism,
+tourist,
+towards,
+towel,
+tower,
+town,
+toy,
+track,,B2
+trade,
+tradition,
+traditional,
+traffic,
+train,,A2
+trainer,
+training,
+transfer,
 
-переключатель;B1,B2
-символ;A2
-сочувствие;B2
-симптом;B1
+переключатель,,B2
+символ,
+сочувствие,
+симптом,
 хотя соедин.,B1
-думал;A2
+думал,
 тысяча номер A1
-угроза;B2
-угрожать;B2
+угроза,
+угрожать,
 три числа A1
-горло;B1
+горло,
 через преп.,A1
 на протяжении преп. / адв. B1
-бросить;A2
-Четверг;A1
-таким образом;B2
-билет;A1
+бросить,
+Четверг,
+таким образом,
+билет,
 аккуратный прил., т. A2
-галстук;A2
-плотный;B1
+галстук,
+плотный,
 до сопряжения / преп. B1
-время;A1,B2
-жесть;B1
-крошечный;B1
-подсказка;A2, версия B1
-усталый;A1
-название;A1,B2
+время,,B2
+жесть,
+крошечный,
+подсказка,, версия B1
+усталый,
+название,,B2
 подготовить, маркер инфинитива A1
 сегодня нареч., н. A1
 палец н. B1
-вместе;A1
-туалет;A1
-помидор;A1
+вместе,
+туалет,
+помидор,
 завтра нареч., н. A1
-тон;B2
-язык;B1
+тон,
+язык,
 сегодня вечером нареч., сущ. A1
-тоже;A1
-инструмент;A2
-зуб;A1
-верхнее;A2
-тема;A1
-общий;B1
-полностью;B1
-коснитесь;A2,B1
-суровый;B2
-тур;A2, версия B1
-туризм;A2
-туристический;A1
+тоже,
+инструмент,
+зуб,
+верхнее,
+тема,
+общий,
+полностью,
+коснитесь,,B1
+суровый,
+тур,, версия B1
+туризм,
+туристический,
 к преп. A2
-полотенце;A2
-башня;A2
-город;A1
-игрушка;A2
-трек;A2,B2
+полотенце,
+башня,
+город,
+игрушка,
+трек,,B2
 п., т. В1
-традиция;A2
-традиционный;A2
-трафик;A1
+традиция,
+традиционный,
+трафик,
 поезд н. A1,A2
 тренер н. A2
-обучение;A2
-перевод;B2
+обучение,
+перевод,
 
-thick;A2
-thief;A2
-thin;A2
-thing;A1
-think;A1
-thinking;A2
+thick,
+thief,
+thin,
+thing,
+think,
+thinking,
 third number A1,A2
-thirsty;A1
+thirsty,
 thirteen number A1
 thirty number A1
-this det./pron. A1,;B1
-trial;B2
-trick;B1
-trip;A1,B2
-tropical;B2
-trouble;A2,B2
-trousers;A1
-truck;A2
-true;A1
-truly;B2
-trust;B2
-truth;B1
-try;A1,B2
-T-shirt;A1
-tube;B1
-Tuesday;A1
-tune;B2
-tunnel;B2
-turn;A1
-TV;A1
+this det./pron. A1,,
+trial,
+trick,
+trip,,B2
+tropical,
+trouble,,B2
+trousers,
+truck,
+true,
+truly,
+trust,
+truth,
+try,,B2
+T-shirt,
+tube,
+Tuesday,
+tune,
+tunnel,
+turn,
+TV,
 twelve number A1
 twenty number A1
-twice;A1
-twin;A2
+twice,
+twin,
 two number A1
-type;A1,B1
-typical;A2
-typically;B1
-tyre;B1
-ugly;B1
-ultimately;B2
-umbrella;A1
-unable;B1
-uncle;A1
-uncomfortable;B1
-unconscious;B2
-under;A1
-underground;;A2
-understand;A1
-understanding;A2
-underwear;B1
-unemployed;B1
-unemployment;B1
-unexpected;B2
-unfair;B1
-unfortunately;A2
-unhappy;A2
-uniform;A2
-union;B1
-unique;B2
-unit;A2
-united;A2
-universe;B2
-university;A1
-unknown;B2
+type,,B1
+typical,
+typically,
+tyre,
+ugly,
+ultimately,
+umbrella,
+unable,
+uncle,
+uncomfortable,
+unconscious,
+under,
+underground;,
+understand,
+understanding,
+underwear,
+unemployed,
+unemployment,
+unexpected,
+unfair,
+unfortunately,
+unhappy,
+uniform,
+union,
+unique,
+unit,
+united,
+universe,
+university,
+unknown,
 
-толстый;A2
-вор;A2
-тонкий;A2
-вещь;A1
+толстый,
+вор,
+тонкий,
+вещь,
 думаю,A1
-мышление;A2
+мышление,
 третье число А1,A2
-жажда;A1
+жажда,
 тринадцать число А1
 тридцать номер A1
 это дет./прон. A1,B1
-пробный;B2
-трюк;B1
-поездка;A1,B2
-тропический;B2
+пробный,
+трюк,
+поездка,,B2
+тропический,
 проблемы A2,B2
-брюки;A1
-грузовик;A2
-истинный;A1
-действительно;B2
-Доверие;B2
-правда;B1
-попробуйте;A1,B2
-Футболка;A1
-трубка;B1
-Вторник;A1
-настроить;B2
-туннель;B2
-поворот;A1
-TV;A1
+брюки,
+грузовик,
+истинный,
+действительно,
+Доверие,
+правда,
+попробуйте,,B2
+Футболка,
+трубка,
+Вторник,
+настроить,
+туннель,
+поворот,
+TV,
 двенадцать номер A1
 двадцать номер А1
-дважды;A1
-twin;A2
+дважды,
+twin,
 два числа A1
-введите;A1, версия B1
-типичный;A2
-обычно;B1
-шина;B1
-уродливый;B1
-в конечном итоге;B2
-зонтик;A1
-неспособный;B1
-дядя;A1
-неудобный;B1
-бессознательный;B2
+введите,, версия B1
+типичный,
+обычно,
+шина,
+уродливый,
+в конечном итоге,
+зонтик,
+неспособный,
+дядя,
+неудобный,
+бессознательный,
 в стадии подготовки,A1
 подземный прил.,A2
-понять;A1
-понимание;A2
-нижнее белье;B1
-безработный;B1
-безработица;B1
-неожиданный;B2
-несправедливый;B1
-к сожалению;A2
-несчастный;A2
-униформа;A2
-союз;B1
-уникальный;B2
+понять,
+понимание,
+нижнее белье,
+безработный,
+безработица,
+неожиданный,
+несправедливый,
+к сожалению,
+несчастный,
+униформа,
+союз,
+уникальный,
 единица № A2
-объединенный;A2
-вселенная;B2
-университет;A1
-неизвестный;B2transform;B2
+объединенный,
+вселенная,
+университет,
+неизвестный,transform,
 
-transition;B2
-translate;B1
-translation;B1
-transport;A2,B1
-travel;A1
-traveller;A2
-treat;B1
-treatment;B1
-tree;A1
-trend;B1
-unusual;A2
-up;,;A1
-update;B1
-upon;B1
-upper;B2
-upset;B1
-upstairs;A1,A2
-upwards;B2
-urban;B2
-urge;B2
+transition,
+translate,
+translation,
+transport,,B1
+travel,
+traveller,
+treat,
+treatment,
+tree,
+trend,
+unusual,
+up;,,
+update,
+upon,
+upper,
+upset,
+upstairs,,A2
+upwards,
+urban,
+urge,
 us pron. A1
-use;A1,A2
-used1;B1
-used2;B1
-used to modal;A2
-useful;A1
-user;A2
-usual;A2
-usually;A1
-vacation;A1
-valley;A2
-valuable;B1
-value;B1,B2
-van;A2
-variety;A2
-various;B1
-vary;B2
-vast;B2
-vegetable;A1
-vehicle;A2
-venue;B2
-version;B1
-very;A1,B2
-via;B2
-victim;B1
-victory;B2
-video;A1
-view;A2,B1
-viewer;B1
-village;A1
-violence;B2
-violent;B1
-virtual;B2
-virus;A2
-vision;B2
-visit;A1
-visitor;A1
-visual;B2
-vital;B2
-vitamin;B2
-voice;A2
-volume;B2
-volunteer;B1
-vote;B1преобразовать;B2
+use,,A2
+used1,
+used2,
+used to modal,
+useful,
+user,
+usual,
+usually,
+vacation,
+valley,
+valuable,
+value,,B2
+van,
+variety,
+various,
+vary,
+vast,
+vegetable,
+vehicle,
+venue,
+version,
+very,,B2
+via,
+victim,
+victory,
+video,
+view,,B1
+viewer,
+village,
+violence,
+violent,
+virtual,
+virus,
+vision,
+visit,
+visitor,
+visual,
+vital,
+vitamin,
+voice,
+volume,
+volunteer,
+vote,преобразовать,
 
-переход;B2
-перевести;B1
-перевод;B1
-транспорт;A2, версия B1
-путешествия;A1
+переход,
+перевести,
+перевод,
+транспорт,, версия B1
+путешествия,
 путешественник н. A2
-лечить;B1
-лечение;B1
-дерево;A1
-тенденция;B1
-необычный;A2
+лечить,
+лечение,
+дерево,
+тенденция,
+необычный,
 наверх нареч., приготов. A1
-обновление;B1
+обновление,
 при преп. B1
-верхний;B2
+верхний,
 расстроенный прил.,B1
-наверху;A1,A2
-вверх;B2
-городской;B2
+наверху,,A2
+вверх,
+городской,
 настаивать против B2
 нас прон. A1
-используйте;A1,A2
-used1;B1
-used2;B1
-используется для модального;A2
-полезный;A1
-пользователь;A2
-обычный;A2
-обычно;A1
-отпуск;A1
-долина;A2
-ценный;B1
-значение;B1, версия B2
-van;A2
-сорт;A2
-различный;B1
-варьировать;B2
-обширный;B2
+используйте,,A2
+used1,
+used2,
+используется для модального,
+полезный,
+пользователь,
+обычный,
+обычно,
+отпуск,
+долина,
+ценный,
+значение,, версия B2
+van,
+сорт,
+различный,
+варьировать,
+обширный,
 овощ н. A1
-автомобиль;A2
-место проведения;B2
-версия;B1
-очень;A1,B2
+автомобиль,
+место проведения,
+версия,
+очень,,B2
 через преп. B2
-потерпевший;B1
-Победа;B2
-видео;A1
-просмотр;A2, версия B1
-зритель;B1
-деревня;A1
-насилие;B2
-насильственный;B1
-виртуальный;B2
-вирус;A2
-видение;B2
+потерпевший,
+Победа,
+видео,
+просмотр,, версия B1
+зритель,
+деревня,
+насилие,
+насильственный,
+виртуальный,
+вирус,
+видение,
 посещение с.,A1
-посетитель;A1
-визуальный;B2
-витальный;B2
+посетитель,
+визуальный,
+витальный,
 витамин н. B2
-голос;A2
-том;B2
+голос,
+том,
 волонтер н., т. В1
 голос;В1
 
 unless conj. B1
-unlike;B1если только соедин. B1
-в отличие от преп. B1wage;B2
-wait;A1,A2заработная плата;B2
-ждать;A1,A2unlikely;B1
-unnecessary;B1
-unpleasant;B1
+unlike,если только соедин. B1
+в отличие от преп. B1wage,
+wait,,A2заработная плата,
+ждать,,A2unlikely,
+unnecessary,
+unpleasant,
 until conj./prep. A1
-want;A1
-war;A2
-warm;A1,B1
-warn;B1
-warning;B1
-wash;A1,A2
-washing;A2
-waste;B1
-watch;A1
-water;A1,B1
-wave;A2,B1
-way;A1,;B2
+want,
+war,
+warm,,B1
+warn,
+warning,
+wash,,A2
+washing,
+waste,
+watch,
+water,,B1
+wave,,B1
+way,,,
 we pron. A1
-weak;A2
-weakness;B2
-wealth;B2
-wealthy;B2
-weapon;B1
-wear;A1
-weather;A1
-web;A2
-website;A1
-wedding;A2
-Wednesday;A1
-week;A1
-weekend;A1
-weigh;B1
-weight;A2
+weak,
+weakness,
+wealth,
+wealthy,
+weapon,
+wear,
+weather,
+web,
+website,
+wedding,
+Wednesday,
+week,
+weekend,
+weigh,
+weight,
 welcome exclam.,A1,A2
 well;,; exclam. A1
-west;;A1
-western;B1
-wet;A2
+west;,
+western,
+wet,
 what pron./det. A1
 whatever det./pron. B1
-wheel;A2
+wheel,
 when;, pron., conj. A1
 whenever conj. B1
 where;, conj. A1
@@ -5826,63 +5629,63 @@ wherever conj. B2
 whether conj. B1
 which pron./det. A1
 while conj. A2,B1
-whisper;B2
-white;A1
+whisper,
+white,
 who pron. A1
-whole;A2,B1
+whole,,B1
 whom pron. B2
 whose det./pron. A2
-why;A1
-wide;A2
-widely;B2
-wife;A1
-wild;A2
-wildlife;B2
-will modal;A1,B1
-willing;B2
-win;A1,B1
-wind1;A2
+why,
+wide,
+widely,
+wife,
+wild,
+wildlife,
+will modal,,B1
+willing,
+win,,B1
+wind1,
 
-маловероятный;B1
-ненужный;B1
-неприятный;B1
+маловероятный,
+ненужный,
+неприятный,
 до сопряжения / преп. A1
-хочу;A1
+хочу,
 предупреждать. A2
-теплый;A1, версия B1
-предупредить;B1
-предупреждение;B1
-мыть;A1,A2
-стирка;A2
+теплый,, версия B1
+предупредить,
+предупреждение,
+мыть,,A2
+стирка,
 отходы т.,B1
-смотреть;A1
+смотреть,
 вода н. A1, версия B1
-волна;A2, версия B1
-путь;A1,B2
+волна,, версия B1
+путь,,B2
 мы произн. A1
-слабый;A2
-слабость;B2
-богатство;B2
-богатый;B2
-оружие;B1
-носить;A1
-погода;A1
-web;A2
-сайт;A1
-свадьба;A2
-Среда;A1
-неделя;A1
-выходные;A1
-вес;B1
-вес;A2
+слабый,
+слабость,
+богатство,
+богатый,
+оружие,
+носить,
+погода,
+web,
+сайт,
+свадьба,
+Среда,
+неделя,
+выходные,
+вес,
+вес,
 приветственное восклицание.
 хорошо
 западное прил.,A1
-западный;B1
-мокрый;A2
+западный,
+мокрый,
 какой пр. / дет. A1
 что угодно дет. / пр. B1
-колесо;A2
+колесо,
 когда нареч., пр., соедин. A1
 всякий
 где нареч.,A1
@@ -5891,130 +5694,112 @@ web;A2
 ли конн. B1
 который прон. / дет. A1
 в то время как конъюнктура A2,B1
-шепот;B2
-белый;A1
+шепот,
+белый,
 кто пр. A1
-весь;A2,B1
+весь,,B1
 кого прон. B2
 чей дет./прон. A2
-почему;A1
-широкий;A2
-широко;B2
-жена;A1
-дикий;A2
-живая природа;B2
-будет модальным;A1,B1
-желающий;B2
+почему,
+широкий,
+широко,
+жена,
+дикий,
+живая природа,
+будет модальным,,B1
+желающий,
 выиграть против A1,B1
-ветер1;A2
+ветер1,
 
-waiter;A1
-wake;A1
-walk;A1
-wall;A1
-wind
-window;A1
-wine;A1
-wing;B1
-winner;A2
-winter;A1
-wire;B2
-wise;B2
-wish;A2
-with;A1
-within;B1
-without;A1
-witness;B2
-woman;A1
-wonder;B1
-wonderful;A1
-wood;A2
-wooden;A2
-wool;B1
-word;A1
-work;A1
-worker;A1
-working;A2
-world;A1
-worldwide;;B1
-worried;A2
-worry;A2,B1
-worse;A2,;B1,B2
-worst;A2,;B1,B2
-worth;B1,B2
-would modal;A1
-wound;B2
-wow exclam. A2
-wrap;B2
-write;A1
-writer;A1
-writing;A1
-written;B1
-wrong;A1,;B1,B2
-yard;B1
-yeah exclam. A1
-year;A1
-yellow;A1
-yes exclam. A1
-yesterday;,A1
-yet;A2, conj. B2
-you pron. A1
-young;молодой;А1,B1
-your;ваш;A1
-yours;твое;A2
-yourself;себя;A1
-youth;молодежь;B1
-zero number;нулевое число;A2
-zone;зона;B2
+waiter,
+wake,
+walk,
+wall,
+wind,ветер
+window,
+wine,
+wing,
+winner,
+winter,
+wire,
+wise,
+wish,
+with,
+within,
+without,
+witness,
+woman,
+wonder,
+wonderful,
+wood,
+wooden,
+wool,
+word,
+work,
+worker,
+working,
+world,
+worldwide;,
+worried,
+worry,,B1
+worse,,,,B2
+worst,,,,B2
+worth,,B2
+would,будет
+wound,рана
+wow,вау(восклицание)
+wrap,обертка
+write,напишите
+writer,писатель
+writing,писать
+written,письменный
+wrong,неправильный
+yard,двор
+yeah,да(восклицать)
+year,год
+yellow,желтый
+yes,да(воскл.)
+yesterday,вчерашний
+yet,пока
+you,ты
+young,молодой
+your,ваш
+yours,твое
+yourself,себя
+youth,молодежь
+zero number,нулевое число
+zone,зона
 
 официант н. A1
-пробуждение;A1
+пробуждение,
 прогулка в.,A1
-стена;A1
-ветер
-окно;A1
-вино;A1
-крыло;B1
-победитель;A2
-зима;A1
-провод;B2
-мудрый;B2
-желаю;A2
+стена,
+окно,
+вино,
+крыло,
+победитель,
+зима,
+провод,
+мудрый,
+желаю,
 с преп. A1
 в рамках подготовки. B1
 без преп. A1
-свидетель;B2
-женщина;A1
-чудо;B1
-чудесный;A1
-дерево;A2
-деревянный;A2
-шерсть;B1
-слово;A1
-работа;A1
+свидетель,
+женщина,
+чудо,
+чудесный,
+дерево,
+деревянный,
+шерсть,
+слово,
+работа,
 рабочий н. A1
-рабочий;A2
-мир;A1
+рабочий,
+мир,
 всемирный прил.,B1
-обеспокоенный;A2
-беспокоиться;A2,B1
-хуже;A2,В1,B2
+обеспокоенный,
+беспокоиться,,B1
+хуже,,В1,B2
 ;худший;?
 ;стоит;В1,B2
-;будет модальным;A1
-;рана;B2
-;вау(восклицание);A2
-;обертка;B2
-;напишите;A1
-;писатель;A1
-;писать;A1
-;письменный;B1
-;неправильный;?
-;двор;B1
-;да(восклицать);A1
-;год;A1
-;желтый;A1
-;да(воскл.);A1
-;вчерашний;A1
-;пока;A2,B2
-;ты;A1

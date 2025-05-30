@@ -712,6 +712,18 @@ files = [
 ]
 
 [[package]]
+name = "types-peewee"
+version = "3.17.9.20250401"
+description = "Typing stubs for peewee"
+optional = false
+python-versions = ">=3.9"
+groups = ["dev"]
+files = [
+    {file = "types_peewee-3.17.9.20250401-py3-none-any.whl", hash = "sha256:adbf4bb2f4975a0928c1de62293185400cd83a982e108ef7e0ed99a157e0aa9d"},
+    {file = "types_peewee-3.17.9.20250401.tar.gz", hash = "sha256:e0e59b14d55c7e21835a12edbd4c14d304bb287390d7577e6be7402bfc95f600"},
+]
+
+[[package]]
 name = "typing-extensions"
 version = "4.12.2"
 description = "Backported and Experimental Type Hints for Python 3.8+"
@@ -741,4 +753,4 @@ typing-extensions = ">=4.12.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "f5384b80df1e58db55f246d6f8c28d56f930963dc2cd287073cf144f13ee2f6d"
+content-hash = "b021c3e7f9cebea193f301124ad8aa458fadf80fc10c3d69e3b1cff038e428f4"
