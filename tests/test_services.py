@@ -168,11 +168,27 @@ class TestWordService:
             add_mock.assert_any_call(words[0])
             add_mock.assert_any_call(words[1])
 
-    def test_get_next_word_list(self):
+    @patch("sas.services.fn.MIN")
+    @patch("sas.services.Word")
+    @patch("sas.services.UserWord")
+    def test_get_next_word_list(self, user_word_mock, word_mock, min_mock):
         """Test .get_next_word_list."""
         user = Mock()
         count = Mock()
         word_service = WordService()
         result = word_service.get_next_word_list(user, count=count)
 
-        assert result == 0
+        assert result == word_mock.select.return_value.join.return_value.where.return_value.limit.return_value
+
+        min_mock.assert_called_once_with(user_word_mock.score)
+        user_word_mock.select.assert_called_once_with(min_mock.return_value)
+        user_word_mock.select.return_value.where.assert_called_once_with(user_word_mock.user == user)
+        user_word_mock.select.return_value.where.return_value.scalar.assert_called_once_with()
+
+        word_mock.select.assert_called_once_with()
+        word_mock.select.return_value.join.assert_called_once_with(user_word_mock)
+        word_mock.select.return_value.join.return_value.where.assert_called_once_with(
+            user_word_mock.word == word_mock.english,
+            user_word_mock.score == user_word_mock.select.return_value.where.return_value.scalar.return_value,
+        )
+        word_mock.select.return_value.join.return_value.where.return_value.limit.assert_called_once_with(count)
